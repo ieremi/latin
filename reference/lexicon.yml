@@ -2,6 +2,7 @@
 #
 # 実習で出てきた語や接尾辞の記載事項をまとめる．
 # 項目は見出しのアルファベット順（ハイフンは無視）に並べる．文体は常体とする．
+# ラテン語には長音符を付けない．ギリシア語の転写と再建形は原表記のままにする．
 #
 # 記載事項
 #   見出し: 見出し語
@@ -51,10 +52,10 @@
 - 見出し: appendo
   品詞: 動詞
   主要形:
-    - appendō
+    - appendo
     - appendere
-    - appendī
-    - appēnsum
+    - appendi
+    - appensum
   活用: 3
   語義: 「つるす，ぶら下げる」．「量る」．
   語源: ad- + pendo．ad- の d が p に同化して ap- になった．
@@ -62,6 +63,82 @@
   用例:
     - appendix 「付属物，垂」．
     - 英語 append 「付け加える」．
+
+- 見出し: -arium
+  品詞: 接尾辞（名詞化）
+  主要形:
+    - -arium
+    - -arii
+  曲用: 2
+  性: 中性
+  語義: 「...のある場所，...に使う道具」を表す名詞を作る．
+  語源: 形容詞を作る接尾辞 -arius の中性形が，名詞になったもの．
+  ギリシア語由来: false
+  用例:
+    - ovarium 「卵巣」．
+    - armarium 「戸棚」，columbarium 「鳩小屋」．
+    - 英語 aquarium 「水族館」，planetarium 「プラネタリウム」，herbarium 「植物標本館」．
+
+- 見出し: -arius
+  品詞: 接尾辞（形容詞化）
+  主要形:
+    - -arius
+    - -aria
+    - -arium
+  曲用: [1, 2]
+  語義: 「...に関する，...に属する」．名詞から形容詞を作る．
+  語源: 前ラテン語 *-āsios に由来する．
+  ギリシア語由来: false
+  用例:
+    - urinarius 「尿の」．膀胱 vesica urinaria で使う．
+    - coronarius 「冠状の」．
+    - intertransversarius 「横突間の」．横突間筋 mm. intertransversarii で使う．
+    - 英語 -ary （urinary, coronary など）．
+  備考: 「...を扱う人，商人」を表す男性名詞も作る．
+
+- 見出し: -atio
+  品詞: 接尾辞（名詞化）
+  主要形:
+    - -atio
+    - -ationis
+  曲用: 3
+  性: 女性
+  語義: 動詞から「...すること，...した結果」を表す名詞を作る．
+  語源: 第 1 活用の動詞の目的分詞幹の語尾 -at- に，接尾辞 -io （-tio）が付いた形．-tio は前イタリア語 *-tiō に由来する．
+  ギリシア語由来: false
+  用例:
+    - excavatio 「くぼみ」．直腸子宮窩 excavatio rectouterina で使う．
+    - articulatio 「関節」．
+    - 英語 -ation （excavation, articulation など）．
+
+- 見出し: cavo
+  品詞: 動詞
+  主要形:
+    - cavo
+    - cavare
+    - cavavi
+    - cavatum
+  活用: 1
+  語義: 「くり抜く，うつろにする」．
+  語源: cavus 「うつろな」から作られた動詞．
+  ギリシア語由来: false
+  用例:
+    - excavo 「くり抜く」．
+  備考: 主要形は第 1 活用の規則どおりに補ったもので，辞書では確認していない．
+
+- 見出し: cavus
+  品詞: 形容詞
+  主要形:
+    - cavus
+    - -a
+    - -um
+  曲用: [1, 2]
+  語義: 「うつろな，くぼんだ」．
+  語源: 前イタリア語 *kawos に由来し，印欧祖語 *ḱowh₁ós 「うつろな」に遡るかもしれない．
+  ギリシア語由来: false
+  用例:
+    - cavum 「腔」．胸腔 cavum thoracis で使う．
+    - 英語 cavity 「腔」，concave 「凹んだ」．
 
 - 見出し: colon
   品詞: 名詞
@@ -100,12 +177,53 @@
     - 英語 epiploon 「大網」，epiplocele 「大網ヘルニア」．
   備考: 元のギリシア語 ἐπίπλοον は第 2 曲用中性．
 
+- 見出し: ex-
+  品詞: 接頭辞
+  語義: 「外へ，外に」．
+  語源: ラテン語の前置詞 ex に由来する．
+  ギリシア語由来: false
+  用例:
+    - excavatio 「くぼみ」，excavo 「くり抜く」．
+    - exhaurio 「くみ出す」．
+    - 英語 exhaust 「使い果たす」，excavate 「掘る」．
+
+- 見出し: excavatio
+  品詞: 名詞
+  主要形:
+    - excavatio
+    - excavationis
+  曲用: 3
+  性: 女性
+  幹型: 子音幹
+  語義: 「くり抜くこと」．解剖学では「くぼみ，窩」．
+  語源: excavo 「くり抜く」の語幹 excav- に -atio が付いた形．excavo は ex- + cavo に分けられる．
+  ギリシア語由来: false
+  用例:
+    - 直腸子宮窩 excavatio rectouterina．
+    - 英語 excavation 「発掘」．
+
+- 見出し: excavo
+  品詞: 動詞
+  主要形:
+    - excavo
+    - excavare
+    - excavavi
+    - excavatum
+  活用: 1
+  語義: 「くり抜く，掘る」．
+  語源: ex- + cavo．
+  ギリシア語由来: false
+  用例:
+    - excavatio 「くぼみ」．
+    - 英語 excavate 「掘る」．
+  備考: 主要形は第 1 活用の規則どおりに補ったもので，辞書では確認していない．
+
 - 見出し: haurio
   品詞: 動詞
   主要形:
-    - hauriō
-    - haurīre
-    - hausī
+    - haurio
+    - haurire
+    - hausi
     - haustum
   活用: 4
   語義: 「くみ上げる，くみ出す」．転じて「飲みほす，吸い込む，使い尽くす，取り出す」．
@@ -114,7 +232,7 @@
   用例:
     - haustrum 「くみ上げる道具」．結腸膨起 haustra coli で使う．
     - exhaurio 「くみ出す，使い果たす」．英語 exhaust の語源．
-  備考: 完了幹は haus- （haus-ī）．目的分詞 haus-tum も同じ haus- に -tum が付いた形である．
+  備考: 完了幹は haus- （haus-i）．目的分詞 haus-tum も同じ haus- に -tum が付いた形である．
 
 - 見出し: haustrum
   品詞: 名詞
@@ -128,6 +246,21 @@
   ギリシア語由来: false
   用例:
     - 結腸膨起 haustra coli．
+
+- 見出し: -inus
+  品詞: 接尾辞（形容詞化）
+  主要形:
+    - -inus
+    - -ina
+    - -inum
+  曲用: [1, 2]
+  語義: 「...の，...に関する，...から成る」．名詞から形容詞を作る．
+  語源: 印欧祖語 *-iHnos に由来し，ギリシア語 -inos と同根である．i が短い -inus は，ギリシア語 -ĭnos から借用されたもので，色や植物の名前に多い．
+  ギリシア語由来: false
+  用例:
+    - uterinus 「子宮の」．卵管 tuba uterina で使う．
+    - equinus 「馬の」．馬尾 cauda equina で使う．
+    - 英語 -ine （uterine, equine, marine など）．
 
 - 見出し: -itis
   品詞: 接尾辞（名詞化）
@@ -173,6 +306,22 @@
     - appendix 「付属物，垂」．appendo に付いた -ix である．
     - radix 「根」．
 
+- 見出し: latus
+  品詞: 形容詞
+  主要形:
+    - latus
+    - -a
+    - -um
+  曲用: [1, 2]
+  語義: 「広い，ゆったりした」．
+  語源: 古い形 stlatus から変化した．印欧祖語 *stelH- や *slā- との関係が提案されているが，はっきりしない．
+  ギリシア語由来: false
+  用例:
+    - 広背筋 m. latissimus dorsi．latissimus は最上級．
+    - 子宮広間膜 lig. latum uteri．
+    - latitudo 「広さ，幅」．英語 latitude 「緯度」の語源．
+  備考: 同じつづりの別語がある．fero 「運ぶ」の完了受動分詞 latus と，第 3 曲用中性名詞 latus 「わき腹，側面」．
+
 - 見出し: mes-
   品詞: 接頭辞（連結形）
   語義: 「中間の，間の」．
@@ -213,13 +362,83 @@
     - S 状結腸間膜 mesocolon sigmoideum．
   備考: 曲用は colon と同じ．
 
+- 見出し: mesometrium
+  品詞: 名詞
+  主要形:
+    - mesometrium
+    - mesometrii
+  曲用: 2
+  性: 中性
+  語義: 「子宮間膜」．子宮広間膜の大部分を占める部分．
+  語源: mes- + o + metr- + -ium の合成語．Wiktionary にラテン語の項目はなく，英語の項目の語源と構成要素からの分析である．
+  ギリシア語由来: true
+  用例:
+    - 子宮間膜 mesometrium．
+    - 英語 mesometrium 「子宮間膜」，mesometrial 「子宮間膜の」．
+
+- 見出し: mesosalpinx
+  品詞: 名詞
+  主要形:
+    - mesosalpinx
+    - mesosalpingis
+  曲用: 3
+  性: 女性
+  幹型: 子音幹
+  語義: 「卵管間膜」．子宮広間膜のうち，卵巣から卵管にかけての部分．
+  語源: mes- + o + salpinx の合成語．Wiktionary にラテン語の項目はなく，英語の項目の語源と構成要素からの分析である．
+  ギリシア語由来: true
+  用例:
+    - 卵管間膜 mesosalpinx．
+    - 英語 mesosalpinx 「卵管間膜」．複数形は mesosalpinges．
+  備考: 属格 mesosalpingis は，ギリシア語 σάλπιγξ の属格 σάλπιγγος からの推定で，確認していない．
+
+- 見出し: metr-
+  品詞: 名詞語幹（連結形）
+  語義: 「子宮」．「母」．
+  語源: ギリシア語 μήτρα (mḗtra) 「子宮」に由来する．μήτρα は μήτηρ (mḗtēr) 「母」から作られた語で，μήτηρ は印欧祖語 *méh₂tēr に遡り，ラテン語 mater，英語 mother と同根である．
+  ギリシア語由来: true
+  用例:
+    - 子宮間膜 mesometrium．
+    - 英語 endometrium 「子宮内膜」，metritis 「子宮炎」．
+    - 英語 metro 「地下鉄」．métropolitain の略で，metropolis 「母なる都市」は μήτηρ 「母」+ πόλις 「都市」から作られた．
+    - 英語 maternal 「母の」，maternity 「母であること」．μήτηρ と同根のラテン語 mater 「母」に由来する．
+  備考: 元のギリシア語 μήτρα は女性名詞．英語 meter 「メートル，計器」は μέτρον (métron) 「尺度」に由来する別語で，つづりが似ているだけである．endometrium と metritis は記憶による．
+
+- 見出し: ovarium
+  品詞: 名詞
+  主要形:
+    - ovarium
+    - ovarii
+  曲用: 2
+  性: 中性
+  語義: 「卵巣」．
+  語源: 新ラテン語．ovum 「卵」に -arium が付いた形．
+  ギリシア語由来: false
+  用例:
+    - 卵巣門 hilum ovarii，卵巣皮質 cortex ovarii．
+    - 英語 ovary 「卵巣」．
+
+- 見出し: ovum
+  品詞: 名詞
+  主要形:
+    - ovum
+    - ovi
+  曲用: 2
+  性: 中性
+  語義: 「卵」．
+  語源: 印欧祖語 *h₂ōwyóm に由来する．ギリシア語 ᾠόν (ōión) と同根である．
+  ギリシア語由来: false
+  用例:
+    - 卵巣 ovarium．
+    - 英語 ovum 「卵子」，oval 「卵形の」，ovulate 「排卵する」，oviparous 「卵生の」．
+
 - 見出し: pendo
   品詞: 動詞
   主要形:
-    - pendō
+    - pendo
     - pendere
-    - pependī
-    - pēnsum
+    - pependi
+    - pensum
   活用: 3
   語義: 「量る」，「支払う」．転じて「よく考える」．
   語源: 印欧祖語 *(s)pend- 「引く，紡ぐ」に由来する．
@@ -251,7 +470,7 @@
     - -um
   曲用: [1, 2]
   語義: 「まっすぐな，正しい」．
-  語源: regō の完了受動分詞．印欧祖語 *h₃reǵtós 「まっすぐにされた」に遡る．
+  語源: rego の完了受動分詞．印欧祖語 *h₃reǵtós 「まっすぐにされた」に遡る．
   ギリシア語由来: false
   用例:
     - 直腸 rectum．本来は intestinum rectum で，形容詞を名詞に転用した．
@@ -261,10 +480,10 @@
 - 見出し: rego
   品詞: 動詞
   主要形:
-    - regō
+    - rego
     - regere
-    - rēxī
-    - rēctum
+    - rexi
+    - rectum
   活用: 3
   語義: 「まっすぐにする，導く」．転じて「支配する，統治する，操る」．
   語源: 印欧祖語 *h₃réǵeti 「まっすぐにする」に由来する．
@@ -272,6 +491,63 @@
   用例:
     - rectus 「まっすぐな」．直腸 rectum で使う．
     - 英語 direct 「まっすぐな，指示する」，correct 「正しい」，regent 「摂政」．
+
+- 見出し: salpinx
+  品詞: 名詞
+  主要形:
+    - salpinx
+    - salpingis
+  曲用: 3
+  性: 女性
+  幹型: 子音幹
+  語義: 「ラッパ」．解剖学では「卵管，耳管」．
+  語源: ギリシア語 σάλπιγξ (sálpinx) 「軍用ラッパ」の借用．ギリシア語では印欧語とは関係がなく，前ギリシア語の語とされる．
+  ギリシア語由来: true
+  用例:
+    - 卵管間膜 mesosalpinx．
+    - 耳管咽頭ヒダ plica salpingopharyngea．
+    - 英語 salpingitis 「卵管炎」，salpingo- 「卵管の」．
+  備考: 属格 salpingis は，ギリシア語の属格 σάλπιγγος からの推定で，確認していない．語幹は salping-．英語 salpingitis は記憶による．
+
+- 見出し: sub-
+  品詞: 接頭辞
+  語義: 「下の，下位，副，補，少ない，亜」．
+  語源: ラテン語の前置詞 sub に由来する．印欧祖語 *upó に遡る．
+  ギリシア語由来: false
+  用例:
+    - 鎖骨下筋 m. subclavius．
+    - 硬膜下腔 cavum subdurale．
+    - suspendo 「つるす」．
+  備考: 後ろの子音に同化して suc-, suf-, sug-, sup-, sur- になる．suspendo の sus- も同じ接頭辞と考えられるが，確認していない．
+
+- 見出し: suspendo
+  品詞: 動詞
+  主要形:
+    - suspendo
+    - suspendere
+    - suspendi
+    - suspensum
+  活用: 3
+  語義: 「つるす，ぶら下げる」．受動態では「...に依存する」．
+  語源: sub- + pendo．
+  ギリシア語由来: false
+  用例:
+    - suspensorius 「つるす，支える」．卵巣提索 lig. suspensorium ovarii で使う．
+    - 英語 suspender 「サスペンダー」．
+
+- 見出し: suspensorius
+  品詞: 形容詞
+  主要形:
+    - suspensorius
+    - -a
+    - -um
+  曲用: [1, 2]
+  語義: 「つるす，支える」．
+  語源: suspendo の目的分詞幹 suspens- に，接尾辞 -torius の異形 -sorius が付いた形．
+  ギリシア語由来: false
+  用例:
+    - 卵巣提索 lig. suspensorium ovarii．
+    - 十二指腸提筋 lig. suspensorium duodeni．
 
 - 見出し: tenia
   品詞: 名詞
@@ -288,6 +564,21 @@
     - 大網ヒモ taenia omentalis，間膜ヒモ taenia mesocolica．
     - 条虫の属名 Taenia，英語 taeniasis 「条虫症」．
 
+- 見出し: -torius
+  品詞: 接尾辞（形容詞化）
+  主要形:
+    - -torius
+    - -toria
+    - -torium
+  曲用: [1, 2]
+  語義: 動詞から「...に関する，...のための」を表す形容詞を作る．
+  語源: 行為者を表す接尾辞 -tor に，形容詞を作る接尾辞 -ius が付いた形．
+  ギリシア語由来: false
+  用例:
+    - suspensorius 「つるす，支える」．
+    - 英語 -ory．
+  備考: 動詞の目的分詞幹に付く．異形に -sorius がある．
+
 - 見出し: -trum
   品詞: 接尾辞（名詞化）
   主要形:
@@ -303,3 +594,75 @@
     - rostrum 「くちばし」．脳梁吻 rostrum corporis callosi で使う．英語 rostrum 「演壇」の語源．
     - claustrum 「閉ざすもの，囲い」．前障 claustrum で使う．
     - spectrum 「姿」．動詞 specio 「見る」に -trum が付いた形．英語 spectrum 「スペクトル」の語源．
+
+- 見出し: tuba
+  品詞: 名詞
+  主要形:
+    - tuba
+    - tubae
+  曲用: 1
+  性: 女性
+  語義: 「ラッパ」．解剖学では「管」．
+  語源: tibia 「葦笛」と関係があるかもしれないが，はっきりしない．
+  ギリシア語由来: false
+  用例:
+    - 卵管 tuba uterina，耳管 tuba auditiva．
+    - 英語 tuba 「チューバ」．
+    - tubus 「管」．英語 tube の語源．
+
+- 見出し: tubus
+  品詞: 名詞
+  主要形:
+    - tubus
+    - tubi
+  曲用: 2
+  性: 男性
+  語義: 「管」．「犠牲の儀式で使うラッパ」．
+  語源: tuba から作られた．
+  ギリシア語由来: false
+  用例:
+    - 英語 tube 「管」．中期フランス語 tube を経て入った．
+    - 英語 tubus 「管」．生物学で使う．
+
+- 見出し: urina
+  品詞: 名詞
+  主要形:
+    - urina
+    - urinae
+  曲用: 1
+  性: 女性
+  語義: 「尿」．
+  語源: 印欧祖語 *woh₁-r̥ 「水」に遡り，前ラテン語 *ūrīnos 「水の」から来たとされる．ギリシア語 οὖρον (oûron) 「尿」とは無関係である．
+  ギリシア語由来: false
+  用例:
+    - 膀胱 vesica urinaria．
+    - 英語 urine 「尿」．
+
+- 見出し: uterus
+  品詞: 名詞
+  主要形:
+    - uterus
+    - uteri
+  曲用: 2
+  性: 男性
+  語義: 「子宮」．古典期には「腹，胎児」の意味でも使われた．
+  語源: 印欧祖語 *úderos 「腹」に遡る．
+  ギリシア語由来: false
+  用例:
+    - 子宮円索 lig. teres uteri，子宮体 corpus uteri．
+    - 卵管 tuba uterina．
+    - 英語 uterine 「子宮の」．
+
+- 見出し: vesica
+  品詞: 名詞
+  主要形:
+    - vesica
+    - vesicae
+  曲用: 1
+  性: 女性
+  語義: 「袋，膀胱」．解剖学では，膀胱と胆嚢に使う．
+  語源: 擬音語の語根に由来するかもしれないが，はっきりしない．
+  ギリシア語由来: false
+  用例:
+    - 膀胱 vesica urinaria，胆嚢 vesica fellea．
+    - 英語 vesicle 「小胞」，vesical 「膀胱の」．
