@@ -73,6 +73,7 @@
 
 - [母音の交替](reference/母音の交替.md)
 - [接尾辞](reference/suffix.md)
+- [語彙辞典](reference/lexicon.yml)
 - [例外](reference/adjective1_2.md)
 
 ## 文献案内
