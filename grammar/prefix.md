@@ -57,13 +57,39 @@ b が次の子音に合わせて変わります．
 
 ## ex
 
-b, d, g, j, l, m, n, r, v の前では e- になります．f の前では ef- になります．
+次の子音に合わせて，x が落ちたり，f に変わったりします．
+
+|次の子音|形|
+|:---|:---|
+|b, d, g, j, l, m, n, r, v|e-|
+|f|ef-|
+
+- eminentia 「隆起」( emineo 「突き出る」← e + mineo )．前頭結節 eminentia frontalis
+- emissaria 「導出静脈」( emitto 「送り出す」← e + mitto )．頭頂導出静脈 v. emissaria parietalis
+- efferentes 「輸出の」( effero 「運び出す」← ef + fero )．精巣輸出管 ductuli efferentes testis
 
 ## sub
 
-c, f, g, p, r の前では，それぞれ suc-, suf-, sug-, sup-, sur- になります．
+次の子音に合わせて，b が変わります．
 
-suspendo は sub + pendo ですが，sus- の形になっています．
+|次の子音|形|
+|:---|:---|
+|c|suc-|
+|f|suf-|
+|g|sug-|
+|p|sup-|
+|r|sur-|
+
+- succedo 「近づく，あとを継ぐ」( suc + cedo )
+- sufficio 「供給する，足りる」( suf + ficio．ficio は facio の母音が弱まった形 )
+- suggero 「提案する」( sug + gero )
+- supporto 「運ぶ」( sup + porto )
+- surripio 「盗む」( sur + ripio．ripio は rapio の母音が弱まった形 )
+
+sus- の形になる語もあります．
+
+- suspendo 「つるす」( sus + pendo )．suspensorius 「つるす，支える」
+- sustineo 「支える」( sus + teneo )
 
 # meso
 
