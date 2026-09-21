@@ -1,49 +1,55 @@
 位置関係
 ===
 
-外側 externus, -a, -um
+# 内外・左右
 
-内 internus, -a, -um
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|externus, -a, -um|外側||
+|internus, -a, -um|内||
+|dexter, -tra, -trum|右|第 1・2 曲用だから気をつける|
+|sinister, -tra, -trum|左|第 1・2 曲用だから気をつける|
+|medianus, -a, -um|正中の||
+|medialis, -e|内側の||
+|lateralis, -e|外側の||
 
-右 dexter, -tra, -trum
+# 上下・前後・深さ
 
-左 sinister, -tra, -trum
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|superior|上||
+|inferior|下||
+|supra-|上の|膀胱上窩 fossa supravesicalis|
+|anterior|前||
+|posterior|後||
+|posteromedialis|後内側||
+|superficialis|浅い||
+|profundus, -a, -um|深い||
 
-dexter, sinister は第 1・2 曲用だから気をつける．
+# 間・直・斜め
 
-上 superior
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|inter-|間||
+|meta|||
+|metacarpus|||
+|interosseus, -a, -um|骨間||
+|rectus, -a, -um|直||
+|obliquus, -a, -um|斜めの|Perhaps from ob- (“against”) + licinus (“bent upward”) (Wikt)|
 
-下 inferior
+# 面・側
 
-浅い superficialis
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|dorsalis, -e|背側の||
+|palmaris|手掌側の||
+|visceralis|臓側の||
+|parietalis|壁側の||
 
-深い profundus, -a, -um
+# 走行
 
-前 anterior
-
-後 posterior
-
-後内側 posteromedialis
-
-間 inter-
-
-meta
-
-metacarpus
-
-骨間 interosseus, -a, -um
-
-直 rectus, -a, -um
-
-斜めの obliquus, -a, -um
-
-Perhaps from ob- (“against”) +‎ licinus (“bent upward”) (Wikt)
-
-
-背側の dorsalis, -e
-
-手掌側の palmaris
-
-臓側の visceralis
-
-壁側の parietalis
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|ascendens, -ntis|上行する|第 3 曲用 i 幹 B|
+|descendens, -ntis|下行する|第 3 曲用 i 幹 B|
+|transversus, -a, -um|横行する||

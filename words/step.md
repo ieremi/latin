@@ -1,8 +1,8 @@
 地位
 ===
 
-総 communis, -e; 第 3 曲用 i 幹 C
-
-主 princeps, -cipis; 第 3 曲用子音幹
-
-副
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|communis, -e|総|第 3 曲用 i 幹 C|
+|princeps, -cipis|主|第 3 曲用子音幹|
+||副||

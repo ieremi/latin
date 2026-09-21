@@ -1,4 +1,6 @@
 色
 ===
 
-黒い niger, nigra, nigrum
+|ラテン語|日本語|備考|
+|:---|:---|:---|
+|niger, nigra, nigrum|黒い||
