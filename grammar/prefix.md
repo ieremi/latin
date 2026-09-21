@@ -7,10 +7,14 @@
 - inter: 間
 - meta
 - meso: 「中間の」．ギリシア語由来
+- ob: 「...に向かって，...に逆らって」．b は次の子音に合わせて変わる（ oc-, of-, og-, op-, os- ）．occipitalis の oc- は ob- の b が c に同化した形
 - peri: 「まわり」．ギリシア語由来
+- pro: 「前へ，前に」．protuberantia, processus ( pro + cedo )
 - re: 「うしろに，再び」
+- semi: 「半分」．semispinalis, ductus semicircularis 半規管
 - sub: 「下の，下位，副，補，少ない，亜」
 - supra: 「上の」
+- trans: 「越えて，横切って，わたって」．transversus ( trans + versus )
 - tri: 「3」
 
 # 同化
@@ -36,6 +40,20 @@ d が次の子音に合わせて変わります．
 
 - appendo 「つるす」( ap + pendo )
 - accessorius 「副の」( ac + cess + orius )
+
+## ob
+
+b が次の子音に合わせて変わります．
+
+|次の子音|形|
+|:---|:---|
+|c|oc-|
+|f|of-|
+|g|og-|
+|p|op-|
+|s|os-|
+
+- occipitalis 「後頭の」( oc + cipit + alis )
 
 ## ex
 

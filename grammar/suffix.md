@@ -15,6 +15,8 @@
 
 曲用は -or, -oris の第3曲用子音幹になります．
 
+第 1 活用の動詞では，目的分詞幹が -at で終わるので，ator の形になります．levator は levat + or です．
+
 ## io
 
 動詞の目的分詞語幹に付きます．「...すること」という名詞を作ります．
@@ -61,6 +63,13 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 胸膜頂 cupula pleurae．cup + ula
 - 心室 ventriculus．ventr + iculus
 - 小結節 tuberculum．tuber + culum
+- 踝 malleolus．malle + olus．語幹が母音で終わる語では，olus の形になります
+
+## ia
+
+形容詞や名詞の語幹から，抽象名詞を作ります．第 1 曲用女性 -ia, -iae になります．現在分詞の語幹には ntia の形で付きます．
+
+- protuberantia 「隆起」．protuberans の語幹 protuberant + ia
 
 ## itis
 
@@ -115,6 +124,12 @@ diaphragmat + icus と分けることもできます．
 ## eus
 
 carpeus
+
+## ius
+
+名詞から「...に関する，...でできた」という形容詞を作ります．第 1・2 曲用 -ius, -ia, -ium になります．
+
+- subclavius 「鎖骨の下にある」( sub + clav + ius )
 
 ## icus
 
