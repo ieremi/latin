@@ -28,6 +28,7 @@
 |hilum|門|第 2 曲用中性|
 |incisura|切痕||
 |lamina|板||
+|linea|線|第 1 曲用女性．linea nuchae superior 上項線|
 |plica|ヒダ|第 1 曲用女性|
 |porta|門|門脈 v. portae に使う|
 |processus|突起||
@@ -44,4 +45,6 @@
 |symphysis|結合||
 |tenia|ヒモ|解剖学では tenia，微生物学では taenia|
 |truncus|幹||
+|tuber, -eris|隆起，結節|第 3 曲用子音幹中性|
+|tuberculum|小結節，小突起物|第 2 曲用中性．tuber + culum|
 |valva|弁||

@@ -4,6 +4,7 @@
 |ラテン語|日本語|備考|
 |:---|:---|:---|
 |rhombos|菱形||
+|rhomboideus, -a, -um|菱形の|rhomb + oideus．m. rhomboideus major 大菱形筋|
 |deltoideus|三角形||
 |hyoideus, -a, -um|ユプシロンの形||
 |sigmoideus, -a, -um|シグマの形||

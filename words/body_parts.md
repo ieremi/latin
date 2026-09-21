@@ -8,6 +8,7 @@
 |caput, -itis|頭|第 3 曲用子音幹中性．形容詞は occipitalis 「後頭の」( oc + cipit + alis )．caput の語幹 capit の a が i に変わった|
 |cervix, -icis|頸|第 3 曲用子音幹女性．形容詞は cervicalis|
 |collum|頸|第 2 曲用中性．a. transversa colli 頸横動脈|
+|nucha|項|第 1 曲用女性．linea nuchae superior 上項線|
 
 # 体幹
 

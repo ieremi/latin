@@ -3,10 +3,12 @@
 
 - ab: 離れる
 - ad: 「...へ，...のそばに」．下の「同化」を見ること
+- apo: 「...から離れて，...から発生する」．ギリシア語由来．aponeurosis 「腱膜」
 - ex: 「外へ，外に」
 - inter: 間
 - meta
 - meso: 「中間の」．ギリシア語由来
+- multi: 「多」．multifidus 「多裂の」( multi + fidus )
 - ob: 「...に向かって，...に逆らって」．b は次の子音に合わせて変わる（ oc-, of-, og-, op-, os- ）．occipitalis の oc- は ob- の b が c に同化した形
 - peri: 「まわり」．ギリシア語由来
 - pro: 「前へ，前に」．protuberantia, processus ( pro + cedo )

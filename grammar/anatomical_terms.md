@@ -40,6 +40,14 @@
 - m. trapezius 僧帽筋．「僧帽筋という筋」と考えられます
 - vena cava 大静脈．「洞という静脈」と考えられます
 
+# 名詞の省略
+
+形容詞のついた用語で，名詞が省略されて，形容詞だけで用語を表すことがあります．形容詞が名詞に転用されたものです（[reference/adjective_to_noun.md](../reference/adjective_to_noun.md)）．
+
+- transversus 「横突起」．processus transversus の省略
+- rectum 「直腸」．intestinum rectum の省略
+- vesica 「膀胱」．vesica urinaria の省略
+
 # 属格と形容詞の使い分け
 
 「...の」を表すのに，名詞の属格を使う場合と，形容詞を使う場合とがあります．使い分けの規則はないので，一つずつ覚えます．
