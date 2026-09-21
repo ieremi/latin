@@ -49,6 +49,30 @@ TODO: 調べる．
 - 直説法完了一人称単数
 - 目的分詞（対格）
 
+# 主要形と 3 つの幹
+
+辞書の見出しに並ぶ 4 つの形を，動詞の主要形と称する．主要形から，次の 3 つの幹が得られる．
+
+- 現在幹: 不定法から -re を除いたもの
+- 完了幹: 直説法完了一人称単数から -i を除いたもの
+- 目的分詞幹: 目的分詞から -um を除いたもの
+
+|活用|直説法現在一人称単数|不定法|直説法完了一人称単数|目的分詞|現在幹|完了幹|目的分詞幹|
+|---|---|---|---|---|---|---|---|
+|1|amo|amare|amavi|amatum|ama|amav|amat|
+|2|moneo|monere|monui|monitum|mone|monu|monit|
+|3|rego|regere|rexi|rectum|rege|rex|rect|
+|3b|capio|capere|cepi|captum|cape|cep|capt|
+|4|audio|audire|audivi|auditum|audi|audiv|audit|
+
+解剖学の語形成では，目的分詞幹がよく使われる．
+
+- 名詞化: 目的分詞幹 + io, or, ura．excavatio は目的分詞幹 excavat + io （ excav + atio ），flexura は目的分詞幹 flex + ura
+- 形容詞化: 目的分詞幹 + orius．suspensorius は suspens + orius
+- 完了受動分詞: 目的分詞幹 + 第 1・2 曲用の語尾．rectus は rect + us
+
+完了幹と目的分詞幹は，活用ごとに決まった形になるとは限らない．不規則なものは，辞書の見出しで確認する．たとえば haurio は haurio, haurire, hausi, haustum で，完了幹は haus，目的分詞幹は haust である．
+
 # 解剖学での用途
 
 - 現在能動分詞
