@@ -14,3 +14,6 @@
 |falciformis, -e|鎌状の|第 3 曲用 i 幹 C．falc + i + form + is|
 |triangularis, -e|三角形の|第 3 曲用 i 幹 C．tri + angul + aris|
 |fibrosus, -a, -um|線維性の|fibr + osus|
+|mastoideus, -a, -um|乳頭状の，乳様突起の|mast + oideus．processus mastoideus 乳様突起|
+|spinosus, -a, -um|棘の多い，棘状の|spin + osus．processus spinosus 棘突起|
+|serratus, -a, -um|鋸歯状の|第 1 曲用女性の名詞 serra 「鋸」の派生語．m. serratus posterior inferior 下後鋸筋|

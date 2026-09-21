@@ -24,3 +24,8 @@
 |recedo, recedere|しりぞく|第 3 活用．re + cedo．recessus 陥凹|
 |descendo, descendere, descendi, descensum|下行する|descendens 下行する．colon descendens 下行結腸|
 |gigno|生む|第 3 活用．genit- 「生殖の」．urogenitale 尿生殖の|
+|tubero, tuberare|膨らむ|第 1 活用．protuberantia 隆起|
+|protubero, protuberare|隆起する|pro + tubero．現在能動分詞 protuberans|
+|procedo, procedere, processi, processum|前に進む|pro + cedo．processus 突起|
+|verto, vertere, verti, versum|向ける|第 3 活用．versus は完了受動分詞．transversus ( trans + versus )|
+|plecto|編む|第 3 活用．plexus 神経叢|

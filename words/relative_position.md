@@ -42,6 +42,7 @@
 |ラテン語|日本語|備考|
 |:---|:---|:---|
 |dorsalis, -e|背側の||
+|ventralis, -e|腹側の|第 3 曲用 i 幹 C|
 |palmaris|手掌側の||
 |visceralis|臓側の||
 |parietalis|壁側の||

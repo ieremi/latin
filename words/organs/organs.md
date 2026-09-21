@@ -8,6 +8,7 @@
 |musculus|筋||
 |fascia|筋膜||
 |ligamentum|靭帯|第 2 曲用|
+|tendo, -inis|腱|第 3 曲用子音幹男性．tendo calcaneus 踵骨腱|
 |arteria|動脈||
 |vena|静脈||
 |nervus|神経||

@@ -18,3 +18,5 @@
 |minor, minus|より小さい|parvus の比較級．小網 omentum minus|
 |major, majus|より大きい|magnus の比較級．大網 omentum majus|
 |minimus|最も小さい|parvus の最上級|
+|latissimus|最も広い|latus の最上級．m. latissimus dorsi 広背筋|
+|longissimus|最も長い|longus の最上級．m. longissimus 最長筋|
