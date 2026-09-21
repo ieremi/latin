@@ -35,7 +35,7 @@
 |pyramis, -idis|錐体||
 |radix, -icis|根|第 3 曲用子音幹女性|
 |recessus|陥凹|第 4 曲用男性|
-|rete, -is|網|第 3 曲用子音幹|
+|rete, -is|網|第 3 曲用純粋 i 幹中性|
 |septum|中隔||
 |sinus|洞|第 4 曲用男性|
 |sphincter, -teris|括約筋|第 3 曲用子音幹|
