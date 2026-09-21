@@ -3,9 +3,9 @@
 
 # 活用
 
-規則活用と不規則活用がある．規則活用は第 1 - 4 活用に分かれる．第 3 活用には変則型 3b がある．
+規則活用と不規則活用がある．規則活用は第 1 - 4 活用に分かれる．第 3 活用には A と B の 2 つの型がある．
 
-||1|2|3|3b|4|
+||1|2|3 A|3 B|4|
 |---|---|---|---|---|---|
 |直説法現在能動相1人称単数|am-o|mone-o|reg-o|capi-o|audi-o|
 |不定法|ama-re|mone-re|reg-e-re|cap-e-re|audi-re|
@@ -28,14 +28,14 @@
 まず不定法を見る．語尾 re の前の母音が
 
 - a -> 第 1 活用
-- e -> 第 2 活用 / 第 3 活用 / 第 3b 活用
+- e -> 第 2 活用 / 第 3 活用 A / 第 3 活用 B
 - i -> 第 4 活用
 
-第 2 活用 / 第 3 活用 / 第 3b 活用は，次に直説法現在能動相 1 人称単数を見る．語尾 o の前の字が
+第 2 活用 / 第 3 活用 A / 第 3 活用 B は，次に直説法現在能動相 1 人称単数を見る．語尾 o の前の字が
 
 - e -> 第 2 活用
-- 子音字 -> 第 3 活用
-- i -> 第 3b 活用
+- 子音字 -> 第 3 活用 A
+- i -> 第 3 活用 B
 
 ## 例
 
@@ -43,8 +43,8 @@
 |---|---|---|---|
 |amo, amare|a||第 1 活用|
 |moneo, monere|e|e|第 2 活用|
-|rego, regere|e|子音字 ( g )|第 3 活用|
-|capio, capere|e|i|第 3b 活用|
+|rego, regere|e|子音字 ( g )|第 3 活用 A|
+|capio, capere|e|i|第 3 活用 B|
 |audio, audire|i||第 4 活用|
 
 # 派生形
@@ -71,8 +71,8 @@
 |---|---|---|---|---|---|---|---|
 |1|amo|amare|amavi|amatum|ama|amav|amat|
 |2|moneo|monere|monui|monitum|mone|monu|monit|
-|3|rego|regere|rexi|rectum|rege|rex|rect|
-|3b|capio|capere|cepi|captum|cape|cep|capt|
+|3 A|rego|regere|rexi|rectum|rege|rex|rect|
+|3 B|capio|capere|cepi|captum|cape|cep|capt|
 |4|audio|audire|audivi|auditum|audi|audiv|audit|
 
 解剖学の語形成では，目的分詞幹がよく使われる．
