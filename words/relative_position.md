@@ -5,6 +5,7 @@
 
 |ラテン語|日本語|備考|
 |:---|:---|:---|
+|centralis, -e|中心の||
 |externus, -a, -um|外側||
 |internus, -a, -um|内||
 |dexter, -tra, -trum|右|第 1・2 曲用だから気をつける|
