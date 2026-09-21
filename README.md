@@ -67,11 +67,11 @@
 
 ### 動詞
 
-- [現在能動分詞](reference/現在能動分詞.md)
+- [現在能動分詞](reference/present_participle.md)
 
 ### その他
 
-- [母音の交替](reference/母音の交替.md)
+- [母音の交替](reference/vowel_change.md)
 - [接尾辞](reference/suffix.md)
 - [語彙辞典](reference/lexicon.yml)
 - [例外](reference/adjective1_2.md)
