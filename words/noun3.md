@@ -7,13 +7,17 @@
 |apex, -icis|尖|男性|
 |appendix, -icis|垂|女性|
 |articulatio, -tionis|関節|女性|
+|bifurcatio, -onis|分岐|女性|
 |carotis, -idis|頸動脈|女性|
+|cartilago, -inis|軟骨|女性|
 |cervix, -icis|頸|女性|
 |coccyx, -ygis|尾骨|男性|
+|cuspis, -idis|先端，尖|女性|
 |excavatio, -onis|窩|女性|
 |extensor, -oris|伸筋|男性|
 |flexor, -oris|屈筋|男性|
 |gaster, -tris|腹，胃|女性．TA98 で確認．gaster - gastris - gastres - gastrum|
+|impressio, -onis|圧痕|女性|
 |index, -icis|示指|男性．TA98 で確認|
 |intersectio, -onis|交差，腱画|女性．TA98 で確認．intersectiones tendineae 腱画|
 |levator, -oris|挙筋|男性|
@@ -21,6 +25,7 @@
 |liquor, -oris|液，髄液|男性|
 |mater, -tris|母|女性．TA98 の複数属格は matrum．音節数の規則では混合 i 幹になるが，子音幹である|
 |paries, -etis|壁|男性|
+|pecten, -inis|櫛|男性|
 |pollex, -icis|母指|男性．TA98 で確認|
 |pronator, -oris|回内筋|男性|
 |pulmo, -onis|肺|男性|

@@ -11,7 +11,9 @@
 |quadratus, -a, -um|方形||
 |acer, -cris, -cre|鋭い||
 |teres, teretis|||
-|coronarius, -a, -um|冠状の||
+|coronarius, -a, -um|冠状の|corona 「冠」の派生語．新型コロナウイルス coronavirus も corona にちなむ|
+|ovalis, -e|卵円形の|第 3 曲用 i 幹 C．ov + alis|
+|semilunaris, -e|半月の|第 3 曲用 i 幹 C．semi + lun + aris|
 |falciformis, -e|鎌状の|第 3 曲用 i 幹 C．falc + i + form + is|
 |triangularis, -e|三角形の|第 3 曲用 i 幹 C．tri + angul + aris|
 |fibrosus, -a, -um|線維性の|fibr + osus|

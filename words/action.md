@@ -30,3 +30,6 @@
 |verto, vertere, verti, versum|向ける|第 3 活用．versus は完了受動分詞．transversus ( trans + versus )|
 |plecto|編む|第 3 活用．plexus 神経叢|
 |findo|裂く|multifidus 多裂筋の fidus|
+|bifurco, bifurcare|二つに分かれる|中世ラテン語の動詞．形容詞 bifurcus 「二股の」( bi + furca ) の派生語．bifurcatio 分岐|
+|premo, premere, pressi, pressum|押す|第 3 活用|
+|imprimo, imprimere, impressi, impressum|押しつける|in + premo．impressio 圧痕|
