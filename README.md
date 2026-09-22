@@ -29,6 +29,7 @@
 
 - [格と曲用](grammar/case.md)
 - [曲用と活用](grammar/declension_conjugation.md)
+- [解剖学用語の構成](grammar/anatomical_terms.md)
 
 ### 名詞
 
@@ -38,6 +39,7 @@
 - [名詞第 3 曲用](grammar/noun3.md) 
 - [名詞第 4 曲用](grammar/noun4.md) 
 - [名詞第 5 曲用](grammar/noun5.md) 
+- [名詞の語幹](grammar/stem.md)
 
 ### 形容詞
 
@@ -48,6 +50,19 @@
 - [形容詞の比較級 不規則変化](grammar/comparative2.md)
 - [形容詞の最上級 規則変化](grammar/superlative1.md)
 - [形容詞の最上級 不規則変化](grammar/superlative2.md)
+
+### 動詞
+
+- [動詞](grammar/verb.md)
+- [現在能動分詞](grammar/present_participle.md)
+- [完了受動分詞](grammar/past_participle.md)
+
+### その他
+
+- [複合語とつなぎの母音](grammar/compound.md)
+- [母音の交替](grammar/vowel_change.md)
+- [接頭辞](grammar/prefix.md)
+- [接尾辞](grammar/suffix.md)
 
 ## 文法要覧
 
@@ -75,7 +90,7 @@
 - [母音の交替](reference/vowel_change.md)
 - [接尾辞](reference/suffix.md)
 - [語彙辞典](reference/lexicon.yml)
-- [例外](reference/adjective1_2.md)
+- [例外](reference/exception.md)
 
 ## 文献案内
 
