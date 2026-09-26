@@ -68,6 +68,7 @@
 |abduco|abducere|abduxi|abductum|第 3 活用 A|外転する，遠ざける|ab + duco．abductor 外転筋|
 |adduco|adducere|adduxi|adductum|第 3 活用 A|内転する|ad + duco．adductor 内転筋|
 |appendo|appendere|appendi|appensum|第 3 活用 A|つるす，量る|ap + pendo．appendix 垂|
+|articulo|articulare|articulavi|articulatum|第 1 活用|関節でつなぐ，分節化する|articulus 「関節」の派生語．articulatio 関節|
 |ascendo|ascendere|ascendi|ascensum|第 3 活用 A|上行する|現在能動分詞 ascendens．colon ascendens 上行結腸|
 |cavo||||第 1 活用|くり抜く|形容詞 cavus 「うつろな」から作られた動詞|
 |circumflecto|circumflectere|circumflexi|circumflexum|第 3 活用 A|湾曲させる，弓状に曲げる|circum + flecto．circumflexus 「湾入した，弓状の，回旋した」|
@@ -90,9 +91,10 @@
 |protubero||||第 1 活用|隆起する|pro + tubero．現在能動分詞 protuberans．protuberantia 隆起|
 |recedo|recedere|||第 3 活用 A|退却する，しりぞく|re + cedo．recessus 陥凹|
 |recurro||||||現在能動分詞 recurrens 「再発性，回帰性の」|
-|reflecto||||第 3 活用 A|後にまげる|re + flecto．reflexus 「反転した」|
+|reflecto|reflectere|reflexi|reflexum|第 3 活用 A|後にまげる|re + flecto．reflexus 「反転した」|
 |rego|regere|rexi|rectum|第 3 活用 A|まっすぐにする，導く|rectus 「まっすぐな」．rectum 直腸|
 |retineo|||||保つ|retinaculum 支帯の retina|
+|seco|secare|secui|sectum|第 1 活用|切る|目的分詞が不規則（secatum ではなく sectum）．intersectio 交差，腱画|
 |supino|||||仰向けにする，掌を上に向ける|supinator 回外筋|
 |suspendo|suspendere|suspendi|suspensum|第 3 活用 A|つるす|sus + pendo．suspensorius 「つるす，支える」|
 |tubero||||第 1 活用|膨らむ|名詞 tuber の派生語．protubero の元になる|

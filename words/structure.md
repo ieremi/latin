@@ -8,6 +8,7 @@
 |apex|尖||
 |appendix, -icis|垂|第 3 曲用子音幹女性|
 |arcus|弓||
+|articulus|関節|第 2 曲用男性．articulatio 「関節」の派生元|
 |auricula|耳|心耳に使う|
 |basis, -is|基底，底|第 3 曲用混合 i 幹女性|
 |bifurcatio, -onis|分岐|第 3 曲用子音幹女性．bifurco + atio|
@@ -28,6 +29,8 @@
 |flexura|曲|第 1 曲用女性|
 |foramen, -minis|孔||
 |fossa|窩||
+|fovea|陥凹，窩|第 1 曲用女性|
+|foveola|小陥凹，小窩|第 1 曲用女性．fovea の指小辞形|
 |fundus|底|第 2 曲用男性|
 |haustrum|膨起|第 2 曲用中性|
 |hiatus, -us|裂け目，裂孔|第 4 曲用男性|
@@ -56,7 +59,9 @@
 |sulcus|溝||
 |symphysis|結合||
 |tenia|ヒモ|解剖学では tenia，微生物学では taenia|
+|trigonum|三角|第 2 曲用中性|
 |truncus|幹||
 |tuber, -eris|隆起，結節|第 3 曲用子音幹中性|
-|tuberculum|小結節，小突起物|第 2 曲用中性．tuber + culum|
+|tuberculum|小結節，小突起物|第 2 曲用中性．tuber + culum．派生語に tuberculosis 「結核」|
+|vagina|鞘|第 1 曲用女性．vagina m. recti abdominis 腹直筋鞘|
 |valva|弁||

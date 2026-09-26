@@ -10,6 +10,7 @@
 |ligamentum|靭帯|第 2 曲用|
 |tendo, -inis|腱|第 3 曲用子音幹男性．tendo calcaneus 踵骨腱|
 |cartilago, -inis|軟骨|第 3 曲用子音幹女性|
+|fibra|線維，筋|第 1 曲用女性|
 |arteria|動脈||
 |vena|静脈||
 |nervus|神経||
@@ -36,4 +37,5 @@
 |peritoneum|腹膜||
 |mesenterium|腸間膜||
 |omentum|網||
+|uterus|子宮|第 2 曲用男性．属格 uteri をそのまま使う ( lig. teres uteri 子宮円索 )|
 |cavum|腔||

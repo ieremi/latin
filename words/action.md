@@ -33,3 +33,5 @@
 |bifurco, bifurcare|二つに分かれる|中世ラテン語の動詞．形容詞 bifurcus 「二股の」( bi + furca ) の派生語．bifurcatio 分岐|
 |premo, premere, pressi, pressum|押す|第 3 活用|
 |imprimo, imprimere, impressi, impressum|押しつける|in + premo．impressio 圧痕|
+|seco, secare, secui, sectum|切る|第 1 活用．目的分詞が不規則（secatum ではなく sectum）．intersectio 交差，腱画|
+|articulo, articulare, articulavi, articulatum|関節でつなぐ，分節化する|第 1 活用．articulus 「関節」の派生語．articulatio 関節|

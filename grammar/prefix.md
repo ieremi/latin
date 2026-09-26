@@ -6,6 +6,7 @@
 - apo: 「...から離れて，...から発生する」．ギリシア語由来．aponeurosis 「腱膜」
 - bi: 「二，両」．bicipitalis 「二頭の」( bi + cipit + alis )
 - circum: 「まわりの，とりまいた」．circumflexus 「湾入した，弓状の」( circum + flecto の派生語 )
+- dia: 「横切って，完全な，離れて，...の間の」．ギリシア語由来．母音の前では di になる．diaphragma ( dia + phragma )
 - ex: 「外へ，外に」
 - infra: 「下の，下方の」．infrasternalis 「胸骨下の」( infra + stern + alis )．今日の英語でも infrastructure 等の語に生き残っている
 - inter: 間
@@ -19,6 +20,7 @@
 - semi: 「半分」．semispinalis, ductus semicircularis 半規管
 - sub: 「下の，下位，副，補，少ない，亜」
 - supra: 「上の」
+- syn: 「一緒に，と同時に」．ギリシア語由来．下の「同化」を見ること
 - trans: 「越えて，横切って，わたって」．transversus ( trans + versus )
 - tri: 「3」
 
@@ -95,6 +97,18 @@ sus- の形になる語もあります．
 
 - suspendo 「つるす」( sus + pendo )．suspensorius 「つるす，支える」
 - sustineo 「支える」( sus + teneo )
+
+## syn
+
+n が次の子音に合わせて変わります．ギリシア語由来の接頭辞です．
+
+|次の子音|形|
+|:---|:---|
+|b, m, p|sym-|
+|l|syl-|
+|s|sys-|
+
+- symphysis 「結合」( sym + physis )．symphysis pubica 恥骨結合
 
 # meso
 
