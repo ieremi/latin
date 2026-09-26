@@ -13,12 +13,14 @@
 |medianus, -a, -um|正中の||
 |medialis, -e|内側の||
 |lateralis, -e|外側の||
+|collateralis, -e|副行の，側副の|col + lateralis．col は con が l の前で同化した形．a. collateralis media 中側副動脈|
 
 # 上下・前後・深さ
 
 |ラテン語|日本語|備考|
 |:---|:---|:---|
 |superior|上||
+|supremus, -a, -um|最上の，最高の|superior の最上級．a. thoracica suprema 最上胸動脈|
 |inferior|下||
 |supra-|上の|膀胱上窩 fossa supravesicalis|
 |anterior|前||

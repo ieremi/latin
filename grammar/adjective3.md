@@ -64,8 +64,9 @@ i幹Bの形容詞を挙げるときは、単数主格形と単数属格形を並
 - deves, -vitis
 - princeps, -cipis
 - biceps, -cipitis
+- triceps, -cipitis
 
-のようにである．princeps や biceps のように，caput 「頭」から作られた -ceps 型の複合語はこの亜型になる．
+のようにである．princeps や biceps, triceps のように，caput 「頭」から作られた -ceps 型の複合語はこの亜型になる．
 
 # まとめ
 

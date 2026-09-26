@@ -24,7 +24,7 @@
 - supra: 「上の」
 - syn: 「一緒に，と同時に」．ギリシア語由来．下の「同化」を見ること
 - trans: 「越えて，横切って，わたって」．transversus ( trans + versus )
-- tri: 「3」
+- tri: 「3」．triangularis 「三角形の」，triceps 「三頭の」( tri + cipitis )
 
 # 同化
 
@@ -167,3 +167,4 @@ n が次の子音に合わせて変わります．ギリシア語由来の接頭
 「3」を表します．
 
 - triangularis 「三角形の」
+- triceps 「三頭の」．単数属格 tricipitis は tri + cipitis ( [vowel_change.md](vowel_change.md) )

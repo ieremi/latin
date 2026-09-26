@@ -36,7 +36,7 @@
 |tendo, -inis|腱|男性．TA98 で確認|
 |thorax, -cis|胸郭|男性|
 |trochanter, -eris|転子|男性|
-|tuberositas, -atis|粗面|女性|
+|tuberositas, -atis|粗面|女性．tuberos + itas．tuberosus 「結節の多い」から作られた抽象名詞|
 
 ## 中性
 

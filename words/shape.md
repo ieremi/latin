@@ -23,3 +23,4 @@
 |spinosus, -a, -um|棘の多い，棘状の|spin + osus．processus spinosus 棘突起|
 |serratus, -a, -um|鋸歯状の|第 1 曲用女性の名詞 serra 「鋸」の派生語．m. serratus posterior inferior 下後鋸筋|
 |biceps, -cipitis|二頭の，両頭の|caput から作られた -ceps 型の子音幹形容詞．m. biceps brachii 上腕二頭筋|
+|triceps, -cipitis|三頭の|tri + cipitis．biceps と同型の子音幹形容詞．m. triceps brachii 上腕三頭筋|

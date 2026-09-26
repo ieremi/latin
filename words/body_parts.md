@@ -35,6 +35,7 @@
 |scapula|肩甲骨|第 1 曲用女性．属格 scapulae と形容詞 scapularis の両方を使う|
 |clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない．clavicula 自体は clav + i + cula で，第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」の指小辞形．fascia clavipectoralis 「鎖骨胸筋筋膜」のように，clavicula を使わず clavis の語幹 clav だけで「鎖骨」を表すこともある|
 |acromion|肩峰|第 2 曲用中性|
+|humerus|上腕骨，肩|第 2 曲用男性．属格 humeri をそのまま使う ( a. circumflexa humeri anterior 前上腕回旋動脈 )|
 |brachium|腕|第 2 曲用中性．属格 brachii と形容詞 brachialis の両方を使う|
 |antebrachium|前腕|第 2 曲用中性．ante + brachium．n. cutaneus antebrachii medialis 内側前腕皮神経|
 |radius|橈骨，光線|第 2 曲用男性．形容詞は radialis で，n. radialis 橈骨神経|
