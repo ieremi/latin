@@ -6,7 +6,8 @@
 |corrugo, -are, -avi, -atum|皺寄せる|m. corrugator supercilii 皺眉筋．etym: con + ruga (furrow) + o|
 |levo, levare, levavi, levatum|挙上する|levator|
 |abduco, abducere, abduxi, abductum|外転する|abductor|
-|extendo|伸ばす|extensor|
+|adduco, adducere, adduxi, adductum|内転する|ad + duco．adductor|
+|extendo, extendere, extendi, extentum/extensum|伸ばす|第 3 活用 A．ex + tendo．extensor|
 |supinator|回外筋||
 |oppono|対立する|m. opponens 対立筋|
 |recurro, recurrere, recurri, recursum|走って戻る，再発する|第 3 活用 A．re + curro．現在能動分詞 recurrens 「再発性，回帰性の」|
@@ -36,3 +37,7 @@
 |imprimo, imprimere, impressi, impressum|押しつける|in + premo．impressio 圧痕|
 |seco, secare, secui, sectum|切る|第 1 活用．目的分詞が不規則（secatum ではなく sectum）．intersectio 交差，腱画|
 |articulo, articulare, articulavi, articulatum|関節でつなぐ，分節化する|第 1 活用．articulus 「関節」の派生語．articulatio 関節|
+|prono, pronare|前にかたむける|後期ラテン語の動詞．形容詞 pronus 「前にかたむいた」の派生語．pronator 回内筋|
+|quadro, quadrare, quadravi, quadratum|四角にする|第 1 活用．quadratus 「方形の」は完了受動分詞|
+|retineo, retinere|保つ，引き止める|retinaculum 支帯|
+|vincio, vincire, vinxi, vinctum|縛る|第 4 活用．vinculum ひも|

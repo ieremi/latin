@@ -77,7 +77,7 @@
 |descendo|descendere|descendi|descensum|第 3 活用 A|下行する|現在能動分詞 descendens．colon descendens 下行結腸|
 |duco|ducere|duxi|ductum|第 3 活用 A|引く||
 |excavo||||第 1 活用|くり抜く|ex + cavo．excavatio 窩|
-|extendo|||||伸ばす|extensor 伸筋|
+|extendo|extendere|extendi|extentum/extensum|第 3 活用 A|伸ばす|ex + tendo．extensor 伸筋|
 |findo|||||裂く|multifidus 多裂筋の fidus|
 |flecto|flectere|flexi|flexum|第 3 活用 A|曲げる，たわめる|flexura 曲|
 |gigno||||第 3 活用 A|生む|genit- 「生殖の」．urogenitale 尿生殖の|
@@ -88,14 +88,17 @@
 |plecto||||第 3 活用 A|編む|plexus 神経叢|
 |pono||||第 3 活用 A|置く||
 |procedo|procedere|processi|processum|第 3 活用 A|前に進む|pro + cedo．processus 突起|
+|prono|pronare||||前にかたむける|後期ラテン語の動詞．形容詞 pronus 「前にかたむいた」の派生語．pronator 回内筋|
 |protubero||||第 1 活用|隆起する|pro + tubero．現在能動分詞 protuberans．protuberantia 隆起|
+|quadro|quadrare|quadravi|quadratum|第 1 活用|四角にする|quadratus 「方形の」は完了受動分詞|
 |recedo|recedere|||第 3 活用 A|退却する，しりぞく|re + cedo．recessus 陥凹|
 |recurro|recurrere|recurri|recursum|第 3 活用 A|走って戻る，再発する|re + curro．現在能動分詞 recurrens 「再発性，回帰性の」|
 |reflecto|reflectere|reflexi|reflexum|第 3 活用 A|後にまげる|re + flecto．reflexus 「反転した」|
 |rego|regere|rexi|rectum|第 3 活用 A|まっすぐにする，導く|rectus 「まっすぐな」．rectum 直腸|
-|retineo|||||保つ|retinaculum 支帯の retina|
+|retineo|retinere||||保つ，引き止める|retinaculum 支帯 ( retineo + culum )|
 |seco|secare|secui|sectum|第 1 活用|切る|目的分詞が不規則（secatum ではなく sectum）．intersectio 交差，腱画|
 |supino|||||仰向けにする，掌を上に向ける|supinator 回外筋|
 |suspendo|suspendere|suspendi|suspensum|第 3 活用 A|つるす|sus + pendo．suspensorius 「つるす，支える」|
 |tubero||||第 1 活用|膨らむ|名詞 tuber の派生語．protubero の元になる|
 |verto|vertere|verti|versum|第 3 活用 A|向ける|transversus ( trans + versus )|
+|vincio|vincire|vinxi|vinctum|第 4 活用|縛る|vinculum ひも ( vinc + ulum )|

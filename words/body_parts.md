@@ -42,7 +42,14 @@
 |ulna|尺骨|第 1 曲用女性．形容詞は ulnaris で，n. ulnaris 尺骨神経|
 |manus|手|第 4 曲用 A 女性．rete venosum dorsale manus 手背静脈網|
 |palma|手掌|第 1 曲用女性．形容詞は palmaris で，ramus palmaris 掌側枝|
-|digitus|指|第 2 曲用男性．形容詞は digitalis で，nn. digitales dorsales 背側指神経|
+|digitus|指|第 2 曲用男性．形容詞は digitalis で，nn. digitales dorsales 背側指神経．小指 digitus minimus，属格は digiti minimi|
+|carpus|手根，てくび|第 2 曲用男性．形容詞は carpalis と carpeus の両方がある ( [multiple.md](multiple.md) )．flexor carpi radialis 橈側手根屈筋|
+|metacarpus|中手|第 2 曲用男性．meta + carpus．形容詞は metacarpeus|
+|pollex, -icis|母指|第 3 曲用子音幹男性．属格 pollicis をそのまま使う ( flexor pollicis longus 長母指屈筋 )|
+|index, -icis|示指|第 3 曲用子音幹男性．extensor indicis 示指伸筋|
+|phalanx, -gis|指骨|第 3 曲用混合 i 幹女性．phalanx media 中節骨，phalanx distalis 末節骨|
+|thenar, -aris|母指球|第 3 曲用子音幹中性．mm. thenaris 母指球筋|
+|hypothenar, -aris|小指球|第 3 曲用子音幹中性．hypo + thenar．mm. hypothenaris 小指球筋|
 
 # 下肢
 

@@ -10,9 +10,10 @@
 - con: 「一緒に，共に」．下の「同化」を見ること
 - dia: 「横切って，完全な，離れて，...の間の」．ギリシア語由来．母音の前では di になる．diaphragma ( dia + phragma )
 - ex: 「外へ，外に」
+- hypo: 「下の，少ない」．ギリシア語由来．hypothenar 「小指球」( hypo + thenar )
 - infra: 「下の，下方の」．infrasternalis 「胸骨下の」( infra + stern + alis )．今日の英語でも infrastructure 等の語に生き残っている
 - inter: 間
-- meta
+- meta: 「後ろ，越えて」．ギリシア語由来．metacarpus 「中手」( meta + carpus )
 - meso: 「中間の」．ギリシア語由来
 - multi: 「多」．multifidus 「多裂の」( multi + fidus )
 - ob: 「...に向かって，...に逆らって」．b は次の子音に合わせて変わる（ oc-, of-, og-, op-, os- ）．occipitalis の oc- は ob- の b が c に同化した形
@@ -49,6 +50,7 @@ d が次の子音に合わせて変わります．
 
 - appendo 「つるす」( ap + pendo )
 - accessorius 「副の」( ac + cess + orius )
+- adduco 「内転する」( ad + duco )．次の子音が d のときは同化せず，ad- のままです．adductor 内転筋
 
 ## con
 
@@ -77,6 +79,7 @@ b が次の子音に合わせて変わります．
 |s|os-|
 
 - occipitalis 「後頭の」( oc + cipit + alis )
+- oppono 「対立する」( op + pono )．母指対立筋 m. opponens pollicis
 
 ## ex
 

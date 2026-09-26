@@ -6,6 +6,7 @@
 |angulus|角||
 |anulus|輪||
 |apex|尖||
+|aponeurosis, -is|腱膜|第 3 曲用混合 i 幹女性．apo + neur + osis|
 |appendix, -icis|垂|第 3 曲用子音幹女性|
 |arcus|弓||
 |articulus|関節|第 2 曲用男性．articulatio 「関節」の派生元|
@@ -52,6 +53,7 @@
 |radix, -icis|根|第 3 曲用子音幹女性|
 |recessus|陥凹|第 4 曲用男性|
 |rete, -is|網|第 3 曲用純粋 i 幹中性|
+|retinaculum|支帯|第 2 曲用中性．retineo + culum．flexor retinaculum 屈筋支帯|
 |septum|中隔||
 |sinus|洞|第 4 曲用男性|
 |sphincter, -teris|括約筋|第 3 曲用子音幹|
@@ -65,3 +67,4 @@
 |tuberculum|小結節，小突起物|第 2 曲用中性．tuber + culum．派生語に tuberculosis 「結核」|
 |vagina|鞘|第 1 曲用女性．vagina m. recti abdominis 腹直筋鞘|
 |valva|弁||
+|vinculum|ひも，綱|第 2 曲用中性．vinc + ulum．vincula longa/brevia 長い/短いヒモ|

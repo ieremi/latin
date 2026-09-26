@@ -12,6 +12,7 @@
 |sinister, -tra, -trum|左|第 1・2 曲用だから気をつける|
 |medianus, -a, -um|正中の||
 |medialis, -e|内側の||
+|medius, -a, -um|中間の|第 1・2 曲用．phalanx media 中節骨，truncus medius 中神経幹|
 |lateralis, -e|外側の||
 |collateralis, -e|副行の，側副の|col + lateralis．col は con が l の前で同化した形．a. collateralis media 中側副動脈|
 
@@ -28,6 +29,7 @@
 |posteromedialis|後内側||
 |superficialis|浅い||
 |profundus, -a, -um|深い||
+|distalis, -e|遠位の，末端の|第 3 曲用 i 幹 C．phalanx distalis 末節骨|
 
 # 間・直・斜め
 

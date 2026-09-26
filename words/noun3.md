@@ -4,6 +4,8 @@
 
 |ラテン語|日本語|備考|
 |:---|:---|:---|
+|abductor, -oris|外転筋|男性|
+|adductor, -oris|内転筋|男性|
 |apex, -icis|尖|男性|
 |appendix, -icis|垂|女性|
 |articulatio, -tionis|関節|女性|
@@ -33,6 +35,7 @@
 |radix, -icis|根|女性|
 |regio, -onis|部位，領域|女性|
 |sphincter, -teris|括約筋|男性．TA98 で確認|
+|supinator, -oris|回外筋|男性|
 |tendo, -inis|腱|男性．TA98 で確認|
 |thorax, -cis|胸郭|男性|
 |trochanter, -eris|転子|男性|
@@ -49,13 +52,13 @@
 |diaphragma, -atis|横隔膜||
 |femur, -moris|大腿，大腿骨||
 |foramen, -minis|孔||
-|hypothenar, -is|小指球||
+|hypothenar, -aris|小指球||
 |inguen, -guinis|鼠径部，陰部||
 |latus, -eris|側面，わき腹||
 |pectus, -toris|胸部，胸郭||
 |platysma, -matis|広頸筋|ギリシア語 πλάτυσμα「平たいもの」( πλατύνω「広げる」← πλατύς「平たい，広い」) に由来 [https://en.wiktionary.org/wiki/platysma]|
 |sigma, -atis|シグマ||
-|thenar, -ris|母指球||
+|thenar, -aris|母指球||
 |tuber, -eris|隆起，結節||
 
 # 純粋 i 幹

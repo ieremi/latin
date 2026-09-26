@@ -28,7 +28,7 @@
 
 ## 例
 
-- thenar, -is 「母指球」
+- thenar, -aris 「母指球」
 
 # 純粋i幹
 

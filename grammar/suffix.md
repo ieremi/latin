@@ -12,6 +12,9 @@
 - 回旋筋 M rotator
 - 回外筋 M supinator
 - levator
+- flexor 「屈筋」．flex + or．flex は flecto 「曲げる」の目的分詞幹
+- pronator 「回内筋」．pronat + or
+- abductor 「外転筋」( abduct + or )，adductor 「内転筋」( adduct + or )
 
 曲用は -or, -oris の第3曲用子音幹になります．
 
@@ -56,6 +59,13 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 脳梁吻 rostrum corporis callosi
 - 前障 claustrum
 
+## culum, ulum
+
+動詞から「...する道具」を表す名詞を作ります．第 2 曲用中性 -culum, -culi になります．trum と同じ働きの接尾辞で，指小辞の culum とは別のものです．
+
+- 支帯 retinaculum．retineo 「保つ」+ culum．「保つための道具」
+- ひも vinculum．vinc + ulum．vincio 「縛る」から．「縛るための道具」
+
 ## 指小辞
 
 「小さい」ことを表す名詞や形容詞を作ります．ulus, ula, ulum の形で，元の語の性に合わせて第 1・2 曲用になります．関連する接尾辞に culus があります．
@@ -88,6 +98,13 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 名詞の語幹に付いて，「炎症」を表す名詞を作ります．ギリシア語の接尾辞に由来します．
 
 - 虫垂炎 appendicitis．appendic + itis．ラテン語でも英語でも同じ形です．
+
+## osis
+
+ギリシア語に由来し，「状態，過程」を表す名詞を作ります．
+
+- 腱膜 aponeurosis．apo + neur + osis．neur はギリシア語 νεῦρον 「腱」
+- 結核 tuberculosis．tuberculum + osis
 
 ## ix
 
@@ -138,7 +155,12 @@ diaphragmat + icus と分けることもできます．
 
 ## eus
 
-carpeus
+「...の，...に関する」という形容詞を作ります．名詞の語幹に付きます．第 1・2 曲用 -eus, -ea, -eum になります．
+
+- carpeus 「手根の」( carp + eus )．carpalis とも言います
+- coccygeus 「尾骨の」( coccyg + eus )
+- interosseus 「骨間の」( inter + oss + eus )
+- metacarpeus 「中手の」( metacarp + eus )
 
 ## ius
 
