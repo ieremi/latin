@@ -22,6 +22,7 @@
 |excavo, excavare|くり抜く|第 1 活用．excavatio 窩．excavatio rectouterina 直腸子宮窩|
 |rego, regere, rexi, rectum|まっすぐにする|rectus 「まっすぐな」．rectum 直腸|
 |recedo, recedere|しりぞく|第 3 活用．re + cedo．recessus 陥凹|
+|ascendo, ascendere, ascendi, ascensum|上行する|第 3 活用 A．ascendens 上行する．a. cervicalis ascendens 上行頸動脈|
 |descendo, descendere, descendi, descensum|下行する|descendens 下行する．colon descendens 下行結腸|
 |gigno|生む|第 3 活用．genit- 「生殖の」．urogenitale 尿生殖の|
 |tubero, tuberare|膨らむ|第 1 活用．protuberantia 隆起|
