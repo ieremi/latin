@@ -65,6 +65,12 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 小結節 tuberculum．tuber + culum
 - 踝 malleolus．malle + olus．語幹が母音で終わる語では，olus の形になります
 
+語幹が子音で終わる第 3 曲用の名詞に付くときは，発音のために間に結合母音 i が入り，i + cula/culus の形になります（つなぎの母音については [compound.md](compound.md) を参照）．
+
+- 鎖骨 clavicula．第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」+ i + cula
+- 耳介 auricula．第 3 曲用混合 i 幹女性の名詞 auris, -is 「耳」+ i + cula
+- 小索 funiculus．第 3 曲用混合 i 幹男性の名詞 funis, -is 「綱，索」+ i + culus
+
 ## ia
 
 形容詞や名詞の語幹から，抽象名詞を作ります．第 1 曲用女性 -ia, -iae になります．現在分詞の語幹には ntia の形で付きます．

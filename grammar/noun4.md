@@ -21,3 +21,5 @@
 3 genu, -us 膝
 
 4 cornu, -us 角
+
+5 hiatus, -us 裂孔

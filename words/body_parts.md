@@ -9,6 +9,9 @@
 |cervix, -icis|頸|第 3 曲用子音幹女性．形容詞は cervicalis|
 |collum|頸|第 2 曲用中性．a. transversa colli 頸横動脈|
 |nucha|項|第 1 曲用女性．linea nuchae superior 上項線|
+|mentum, -i|顎，おとがい|第 2 曲用中性．形容詞 mentalis はこの mentum の派生語．mens, mentis「精神」由来の mentalis（「精神の」）とはつづりが同じだけの別語|
+|mandibula|顎，下顎骨|第 1 曲用女性|
+|jugulum, -i|咽喉，首|第 2 曲用中性．形容詞は jugularis|
 
 # 体幹
 
@@ -22,13 +25,16 @@
 |ilia|鼠径部，回腸，内臓|中性の複数形だけがある名詞．形容詞は iliacus で，crista iliaca 腸骨稜|
 |coccyx, -ygis|尾骨|第 3 曲用子音幹男性．apex ossis coccygis 尾骨尖|
 |costa|肋骨|第 1 曲用女性．形容詞は costalis で，intercostalis 「肋間の」( inter + costalis )|
+|sternum|胸骨|第 2 曲用中性．形容詞は sternalis．属格 sterni をそのまま使うこともある ( angulus sterni 胸骨角 )|
+|mamma|胸，乳房|第 1 曲用女性．papilla mammae 乳頭|
 
 # 上肢帯・上肢
 
 |ラテン語|日本語|備考|
 |:---|:---|:---|
 |scapula|肩甲骨|第 1 曲用女性．属格 scapulae と形容詞 scapularis の両方を使う|
-|clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない|
+|clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない．clavicula 自体は clav + i + cula で，第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」の指小辞形|
+|acromion|肩峰|第 2 曲用中性|
 |brachium|腕|第 2 曲用中性．属格 brachii と形容詞 brachialis の両方を使う|
 
 # 下肢
@@ -38,6 +44,8 @@
 |poples, poplitis|膝窩|形容詞は popliteus．fossa poplitea 膝窩|
 |malleolus|踝|第 2 曲用男性．malle + olus．malleus 「ハンマー」の指小辞．malleolus medialis 内果，malleolus lateralis 外果|
 |trochanter, -eris|転子|第 3 曲用子音幹男性．trochanter major 大転子|
+|patella|膝蓋骨|第 1 曲用女性．patera 「平皿」の不規則な指小辞形．規則通りなら paterella になるはずが，er/re が落ちて patella になった（[reference/exception.md](../reference/exception.md)）|
+|calcaneus|踵骨|第 2 曲用男性．tendo calcaneus 踵骨腱 ( アキレス腱 )|
 
 # 骨
 

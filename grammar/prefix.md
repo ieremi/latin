@@ -4,7 +4,9 @@
 - ab: 離れる
 - ad: 「...へ，...のそばに」．下の「同化」を見ること
 - apo: 「...から離れて，...から発生する」．ギリシア語由来．aponeurosis 「腱膜」
+- bi: 「二，両」．bicipitalis 「二頭の」( bi + cipit + alis )
 - ex: 「外へ，外に」
+- infra: 「下の，下方の」．infrasternalis 「胸骨下の」( infra + stern + alis )．今日の英語でも infrastructure 等の語に生き残っている
 - inter: 間
 - meta
 - meso: 「中間の」．ギリシア語由来
@@ -114,6 +116,14 @@ sus- の形になる語もあります．
 
 - recedo 「しりぞく」( re + cedo )
 - recessus 「陥凹」
+
+# infra
+
+「下の，下方の」を表します．supra 「上の」の反対です．
+
+- infrasternalis 「胸骨下の」( infra + stern + alis )
+
+今日の英語でも infrastructure 等の語に生き残っています．
 
 # supra
 

@@ -30,6 +30,7 @@
 |fossa|窩||
 |fundus|底|第 2 曲用男性|
 |haustrum|膨起|第 2 曲用中性|
+|hiatus, -us|裂け目，裂孔|第 4 曲用男性|
 |hilum|門|第 2 曲用中性|
 |impressio, -onis|圧痕|第 3 曲用子音幹女性．impress + io|
 |incisura|切痕||
@@ -39,6 +40,7 @@
 |lobus|葉|第 2 曲用男性|
 |nodulus|小結節|第 2 曲用男性．nod + ulus．nodus 「結節」の指小辞|
 |ostium|戸口，入口，( 器官の ) 口|第 2 曲用中性．os, oris 「口」に由来する別語．体の開口部には，第 3 曲用の os ではなくこちらを使う|
+|papilla|乳頭，突起|第 1 曲用女性|
 |plica|ヒダ|第 1 曲用女性|
 |porta|門|門脈 v. portae に使う|
 |processus|突起||
