@@ -111,7 +111,10 @@ pericardiacus, -a, -um
 
 ## aneus
 
-cutaneus
+「...の，...に関する」という形容詞を作ります．第 1・2 曲用 -aneus, -anea, -aneum になります．英語の -aneous にあたります．
+
+- cutaneus 「皮膚の」( cut + aneus )．cut は cutis, -is 「皮膚」の語幹．英語の cutaneous
+- musculocutaneus 「筋と皮膚の」( muscul + o + cut + aneus )．筋皮神経 n. musculocutaneus
 
 ## aticus
 
@@ -159,6 +162,7 @@ carpeus
 
 - sigmoideus 「S 字状の」( sigm + oideus )
 - rhomboideus 「菱形の」( rhom + oideus )
+- deltoideus 「デルタ形の」( delt + oideus )．delt はギリシア文字デルタ Δ を指す．m. deltoideus 三角筋
 - hyoideus 「ユプシロンの形の」( hy + oideus )．hy はギリシア文字ユプシロン Υ を指す
 - thyroideus 「盾状の，甲状腺の」( thyro + oideus )．thyro はギリシア語 θυρεός 「盾」の語幹
 

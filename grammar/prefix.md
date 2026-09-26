@@ -3,6 +3,7 @@
 
 - ab: 離れる
 - ad: 「...へ，...のそばに」．下の「同化」を見ること
+- ante: 「前に，前方に」．antebrachium 「前腕」( ante + brachium )．anteflexio 「前屈」，anteversio 「前傾」
 - apo: 「...から離れて，...から発生する」．ギリシア語由来．aponeurosis 「腱膜」
 - bi: 「二，両」．bicipitalis 「二頭の」( bi + cipit + alis )
 - circum: 「まわりの，とりまいた」．circumflexus 「湾入した，弓状の」( circum + flecto の派生語 )

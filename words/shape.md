@@ -5,7 +5,7 @@
 |:---|:---|:---|
 |rhombos|菱形||
 |rhomboideus, -a, -um|菱形の|rhomb + oideus．m. rhomboideus major 大菱形筋|
-|deltoideus|三角形||
+|deltoideus, -a, -um|三角形の，デルタ形の|delt + oideus．delt はギリシア文字デルタ Δ．m. deltoideus 三角筋|
 |hyoideus, -a, -um|ユプシロンの形||
 |sigmoideus, -a, -um|シグマの形||
 |quadratus, -a, -um|方形||

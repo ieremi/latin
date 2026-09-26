@@ -36,6 +36,12 @@
 |clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない．clavicula 自体は clav + i + cula で，第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」の指小辞形．fascia clavipectoralis 「鎖骨胸筋筋膜」のように，clavicula を使わず clavis の語幹 clav だけで「鎖骨」を表すこともある|
 |acromion|肩峰|第 2 曲用中性|
 |brachium|腕|第 2 曲用中性．属格 brachii と形容詞 brachialis の両方を使う|
+|antebrachium|前腕|第 2 曲用中性．ante + brachium．n. cutaneus antebrachii medialis 内側前腕皮神経|
+|radius|橈骨，光線|第 2 曲用男性．形容詞は radialis で，n. radialis 橈骨神経|
+|ulna|尺骨|第 1 曲用女性．形容詞は ulnaris で，n. ulnaris 尺骨神経|
+|manus|手|第 4 曲用 A 女性．rete venosum dorsale manus 手背静脈網|
+|palma|手掌|第 1 曲用女性．形容詞は palmaris で，ramus palmaris 掌側枝|
+|digitus|指|第 2 曲用男性．形容詞は digitalis で，nn. digitales dorsales 背側指神経|
 
 # 下肢
 
