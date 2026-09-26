@@ -71,7 +71,7 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 「小さい」ことを表す名詞や形容詞を作ります．ulus, ula, ulum の形で，元の語の性に合わせて第 1・2 曲用になります．関連する接尾辞に culus があります．
 
 - 胸膜頂 cupula pleurae．cup + ula
-- 心室 ventriculus．ventr + iculus
+- 心室 ventriculus．ventr + i + culus．ventr は venter, -tris 「胃」の語幹
 - 小結節 tuberculum．tuber + culum
 - 踝 malleolus．malle + olus．語幹が母音で終わる語では，olus の形になります
 
