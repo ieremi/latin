@@ -159,6 +159,8 @@ carpeus
 
 - sigmoideus 「S 字状の」( sigm + oideus )
 - rhomboideus 「菱形の」( rhom + oideus )
+- hyoideus 「ユプシロンの形の」( hy + oideus )．hy はギリシア文字ユプシロン Υ を指す
+- thyroideus 「盾状の，甲状腺の」( thyro + oideus )．thyro はギリシア語 θυρεός 「盾」の語幹
 
 ## orius
 
@@ -172,3 +174,4 @@ carpeus
 「...の多い」という形容詞を作ります．名詞に付きます．第 1・2 曲用 -osus, -osa, -osum になります．英語の -ous にあたります．
 
 - fibrosus 「線維性の」( fibr + osus )
+- venosus 「静脈の」( ven + osus )

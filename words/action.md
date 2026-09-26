@@ -10,8 +10,8 @@
 |supinator|回外筋||
 |oppono|対立する|m. opponens 対立筋|
 |recurro|||
-|circumflexa|||
 |flecto, flectere, flexi, flexum|曲げる||
+|circumflecto, circumflectere, circumflexi, circumflexum|湾曲させる，弓状に曲げる|第 3 活用．circum + flecto．circumflexus 「湾入した，弓状の，回旋した」|
 |transversus|横行する||
 |obliquus|斜めの||
 |curvo, curvare|曲げる|第 1 活用．curvatura 湾曲|

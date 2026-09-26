@@ -5,6 +5,7 @@
 - ad: 「...へ，...のそばに」．下の「同化」を見ること
 - apo: 「...から離れて，...から発生する」．ギリシア語由来．aponeurosis 「腱膜」
 - bi: 「二，両」．bicipitalis 「二頭の」( bi + cipit + alis )
+- circum: 「まわりの，とりまいた」．circumflexus 「湾入した，弓状の」( circum + flecto の派生語 )
 - ex: 「外へ，外に」
 - infra: 「下の，下方の」．infrasternalis 「胸骨下の」( infra + stern + alis )．今日の英語でも infrastructure 等の語に生き残っている
 - inter: 間

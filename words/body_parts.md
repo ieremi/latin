@@ -33,7 +33,7 @@
 |ラテン語|日本語|備考|
 |:---|:---|:---|
 |scapula|肩甲骨|第 1 曲用女性．属格 scapulae と形容詞 scapularis の両方を使う|
-|clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない．clavicula 自体は clav + i + cula で，第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」の指小辞形|
+|clavicula|鎖骨|形容詞は clavicularis．a. subclavia 鎖骨下動脈．clavius という語はない．clavicula 自体は clav + i + cula で，第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」の指小辞形．fascia clavipectoralis 「鎖骨胸筋筋膜」のように，clavicula を使わず clavis の語幹 clav だけで「鎖骨」を表すこともある|
 |acromion|肩峰|第 2 曲用中性|
 |brachium|腕|第 2 曲用中性．属格 brachii と形容詞 brachialis の両方を使う|
 

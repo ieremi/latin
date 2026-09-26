@@ -70,7 +70,7 @@
 |appendo|appendere|appendi|appensum|第 3 活用 A|つるす，量る|ap + pendo．appendix 垂|
 |ascendo|ascendere|ascendi|ascensum|第 3 活用 A|上行する|現在能動分詞 ascendens．colon ascendens 上行結腸|
 |cavo||||第 1 活用|くり抜く|形容詞 cavus 「うつろな」から作られた動詞|
-|circumflecto||||||circum + flecto．circumflexus 「湾入した，弓状の，回旋した」|
+|circumflecto|circumflectere|circumflexi|circumflexum|第 3 活用 A|湾曲させる，弓状に曲げる|circum + flecto．circumflexus 「湾入した，弓状の，回旋した」|
 |corrugo|corrugare|corrugavi|corrugatum|第 1 活用|皺寄せる|con + ruga (furrow) + o．corrugator 皺眉筋|
 |curvo||||第 1 活用|曲げる|curvatura 湾曲|
 |descendo|descendere|descendi|descensum|第 3 活用 A|下行する|現在能動分詞 descendens．colon descendens 下行結腸|
