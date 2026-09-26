@@ -90,7 +90,7 @@
 |procedo|procedere|processi|processum|第 3 活用 A|前に進む|pro + cedo．processus 突起|
 |protubero||||第 1 活用|隆起する|pro + tubero．現在能動分詞 protuberans．protuberantia 隆起|
 |recedo|recedere|||第 3 活用 A|退却する，しりぞく|re + cedo．recessus 陥凹|
-|recurro||||||現在能動分詞 recurrens 「再発性，回帰性の」|
+|recurro|recurrere|recurri|recursum|第 3 活用 A|走って戻る，再発する|re + curro．現在能動分詞 recurrens 「再発性，回帰性の」|
 |reflecto|reflectere|reflexi|reflexum|第 3 活用 A|後にまげる|re + flecto．reflexus 「反転した」|
 |rego|regere|rexi|rectum|第 3 活用 A|まっすぐにする，導く|rectus 「まっすぐな」．rectum 直腸|
 |retineo|||||保つ|retinaculum 支帯の retina|

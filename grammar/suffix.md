@@ -71,6 +71,12 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 耳介 auricula．第 3 曲用混合 i 幹女性の名詞 auris, -is 「耳」+ i + cula
 - 小索 funiculus．第 3 曲用混合 i 幹男性の名詞 funis, -is 「綱，索」+ i + culus
 
+## tas
+
+形容詞の語幹から「...であること，...の性質」を表す抽象名詞を作ります．第 3 曲用子音幹女性 -tas, -atis になります．間に結合母音 i が入って itas の形になることもあります．英語の -ity にあたります．
+
+- 粗面 tuberositas, -atis．tuberos + itas．tuberosus 「結節の多い」( tuber + osus ) から．英語の tuberosity
+
 ## ia
 
 形容詞や名詞の語幹から，抽象名詞を作ります．第 1 曲用女性 -ia, -iae になります．現在分詞の語幹には ntia の形で付きます．

@@ -9,7 +9,7 @@
 |extendo|伸ばす|extensor|
 |supinator|回外筋||
 |oppono|対立する|m. opponens 対立筋|
-|recurro|||
+|recurro, recurrere, recurri, recursum|走って戻る，再発する|第 3 活用 A．re + curro．現在能動分詞 recurrens 「再発性，回帰性の」|
 |flecto, flectere, flexi, flexum|曲げる||
 |circumflecto, circumflectere, circumflexi, circumflexum|湾曲させる，弓状に曲げる|第 3 活用．circum + flecto．circumflexus 「湾入した，弓状の，回旋した」|
 |transversus|横行する||
