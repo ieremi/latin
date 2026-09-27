@@ -41,6 +41,10 @@
 |lien, -enis|脾|第 3 曲用子音幹男性．形容詞は lienalis|
 |anus, -i|肛門|第 2 曲用男性．第 4 曲用女性の anus, -us 「老婆」とは別語|
 |vesica|袋，膀胱，胆嚢|第 1 曲用女性．vesica urinaria 膀胱，vesica fellea 胆嚢|
+|ren, renis|腎臓|第 3 曲用子音幹男性．しばしば複数形 renes で使う|
+|ureter, ureteris|尿管|第 3 曲用子音幹男性．ギリシア語 οὐρητήρ に由来|
+|glandula|腺|第 1 曲用女性|
+|lympha|リンパ，水|第 1 曲用女性．ギリシア語 νύμφη 「乙女，泉の精」に由来．形容詞は lymphaticus|
 |pleura|胸膜||
 |pericardium|心膜||
 |peritoneum|腹膜||

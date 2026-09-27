@@ -17,7 +17,10 @@
 |bifurcatio, -onis|分岐|第 3 曲用子音幹女性．bifurco + atio|
 |bulbus|球|第 2 曲用男性．bulbus aortae 大動脈球|
 |bursa|嚢||
+|calix, -icis|杯|第 3 曲用子音幹男性．calix renalis 腎杯|
+|capsula|小箱，被膜|第 1 曲用女性．capsa 「箱」の指小辞形|
 |cauda|尾|第 1 曲用女性．形容詞は caudatus．lobus caudatus 尾状葉|
+|cortex, -icis|樹皮，皮質|第 3 曲用子音幹男性．cortex renis 腎皮質|
 |cavum|腔||
 |columna|柱||
 |conus|円錐||
@@ -29,6 +32,8 @@
 |diaphragma, -atis|隔膜|第 3 曲用子音幹中性|
 |ductus|管||
 |excavatio, -onis|窩，くぼみ|第 3 曲用子音幹女性．excav + atio．excavatio rectovesicalis 直腸膀胱窩|
+|extremitas, -atis|端，末端|第 3 曲用子音幹女性．extrem + itas|
+|folliculus|小さな革袋，嚢|第 2 曲用男性．follis の指小辞形|
 |fasciculus|束||
 |fissura|裂|第 1 曲用女性|
 |flexura|曲|第 1 曲用女性|
@@ -47,6 +52,7 @@
 |lingula|小舌|第 1 曲用女性．lingu + ula．lingula pulmonis 肺小舌|
 |lobus|葉|第 2 曲用男性|
 |membrana|膜|第 1 曲用女性．membrana obturatoria 閉鎖膜|
+|medulla|髄，髄質|第 1 曲用女性．medulla renis 腎髄質，medulla spinalis 脊髄|
 |nodulus|小結節|第 2 曲用男性．nod + ulus．nodus 「結節」の指小辞|
 |ostium|戸口，入口，( 器官の ) 口|第 2 曲用中性．os, oris 「口」に由来する別語．体の開口部には，第 3 曲用の os ではなくこちらを使う|
 |papilla|乳頭，突起|第 1 曲用女性|
@@ -70,6 +76,7 @@
 |truncus|幹||
 |tuber, -eris|隆起，結節|第 3 曲用子音幹中性|
 |tuberculum|小結節，小突起物|第 2 曲用中性．tuber + culum．派生語に tuberculosis 「結核」|
+|tunica|外套，被膜|第 1 曲用女性．tunica muscularis 筋質膜|
 |vagina|鞘|第 1 曲用女性．vagina m. recti abdominis 腹直筋鞘|
 |valva|弁||
 |vinculum|ひも，綱|第 2 曲用中性．vinc + ulum．vincula longa/brevia 長い/短いヒモ|

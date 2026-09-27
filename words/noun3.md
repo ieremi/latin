@@ -10,12 +10,15 @@
 |appendix, -icis|垂|女性|
 |articulatio, -tionis|関節|女性|
 |bifurcatio, -onis|分岐|女性|
+|calix, -icis|杯|男性|
 |carotis, -idis|頸動脈|女性|
 |cartilago, -inis|軟骨|女性|
 |cervix, -icis|頸|女性|
 |coccyx, -ygis|尾骨|男性|
+|cortex, -icis|樹皮，皮質|男性|
 |cuspis, -idis|先端，尖|女性|
 |excavatio, -onis|窩|女性|
+|extremitas, -atis|端，末端|女性|
 |extensor, -oris|伸筋|男性|
 |flexor, -oris|屈筋|男性|
 |gaster, -tris|腹，胃|女性．TA98 で確認．gaster - gastris - gastres - gastrum|
@@ -34,12 +37,14 @@
 |pyramis, -idis|錐体|女性．TA98 で確認|
 |radix, -icis|根|女性|
 |regio, -onis|部位，領域|女性|
+|ren, renis|腎臓|男性|
 |sphincter, -teris|括約筋|男性．TA98 で確認|
 |supinator, -oris|回外筋|男性|
 |tendo, -inis|腱|男性．TA98 で確認|
 |thorax, -cis|胸郭|男性|
 |trochanter, -eris|転子|男性|
 |tuberositas, -atis|粗面|女性．tuberos + itas．tuberosus 「結節の多い」から作られた抽象名詞|
+|ureter, ureteris|尿管|男性．ギリシア語 οὐρητήρ に由来|
 
 ## 中性
 

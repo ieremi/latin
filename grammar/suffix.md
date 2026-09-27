@@ -88,6 +88,7 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 形容詞の語幹から「...であること，...の性質」を表す抽象名詞を作ります．第 3 曲用子音幹女性 -tas, -atis になります．間に結合母音 i が入って itas の形になることもあります．英語の -ity にあたります．
 
 - 粗面 tuberositas, -atis．tuberos + itas．tuberosus 「結節の多い」( tuber + osus ) から．英語の tuberosity
+- 端 extremitas, -atis．extrem + itas．extremus 「いちばん外の」から
 
 ## ia
 
@@ -132,7 +133,7 @@ pericardiacus, -a, -um
 語幹に l を含むときは，l の重なりを避けて alis が aris に変わります．aris も同じく第 3 曲用 i 幹 C で，中性は -are です．
 
 - alis: sternalis 「胸骨の」( stern + alis )，pulmonalis 「肺の」，parietalis 「壁の」，jejunalis 「空腸の」( jejun + alis )，ilealis 「回腸の」( ile + alis )，rectalis 「直腸の」( rect + alis )
-- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む．appendicularis 「虫垂の」( appendicul + aris )．語幹 appendicul に l を含む
+- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む．appendicularis 「虫垂の」( appendicul + aris )．muscularis 「筋の」( muscul + aris )．interlobaris 「葉の間の」( inter + lob + aris )，interlobularis 「小葉の間の」( inter + lobul + aris )．いずれも語幹に l を含む
 
 ## aneus
 
@@ -150,12 +151,15 @@ pericardiacus, -a, -um
 - cuneatus 「楔状の」( cune + atus )
 - denticulatus 「歯状の」( denticul + atus )
 - quadratus 「方形の」．quadro 「四角にする」の完了受動分詞
+- aggregatus 「集合した」．aggrego ( ad + grex 「群れ」) の完了受動分詞
 
 ## aticus
 
 diaphragmaticus, -a, -um
 
 diaphragmat + icus と分けることもできます．
+
+- lymphaticus 「リンパの」( lymph + aticus )．lymph は lympha 「水，リンパ」の語幹
 
 ## arius
 
@@ -164,6 +168,7 @@ diaphragmat + icus と分けることもできます．
 - coronarius 「冠状の」
 - urinarius 「尿の」( urin + arius )
 - intertransversarius 「横突間の」
+- solitarius 「孤立した，単独の」
 
 ## eus
 
@@ -225,3 +230,4 @@ diaphragmat + icus と分けることもできます．
 
 - fibrosus 「線維性の」( fibr + osus )
 - venosus 「静脈の」( ven + osus )
+- adiposus 「脂肪性の」( adip + osus )．adip は adeps, adipis 「脂肪」の語幹
