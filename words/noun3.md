@@ -56,6 +56,7 @@
 |inguen, -guinis|鼠径部，陰部||
 |latus, -eris|側面，わき腹||
 |pectus, -toris|胸部，胸郭||
+|pancreas, -atis|膵臓|ギリシア語 πάγκρεας 「すべて肉」に由来|
 |platysma, -matis|広頸筋|ギリシア語 πλάτυσμα「平たいもの」( πλατύνω「広げる」← πλατύς「平たい，広い」) に由来 [https://en.wiktionary.org/wiki/platysma]|
 |sigma, -atis|シグマ||
 |thenar, -aris|母指球||

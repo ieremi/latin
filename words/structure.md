@@ -3,18 +3,21 @@
 
 |ラテン語|日本語|備考|
 |:---|:---|:---|
+|ampulla|膨大部，小さな壺|第 1 曲用女性．amphora の指小辞形．m. sphincter ampullae hepatopancreaticae 膨大部括約筋|
 |angulus|角||
 |anulus|輪||
 |apex|尖||
 |aponeurosis, -is|腱膜|第 3 曲用混合 i 幹女性．apo + neur + osis|
 |appendix, -icis|垂|第 3 曲用子音幹女性|
 |arcus|弓||
+|area|面，平らな場所|第 1 曲用女性．area nuda 無漿膜野|
 |articulus|関節|第 2 曲用男性．articulatio 「関節」の派生元|
 |auricula|耳|心耳に使う|
 |basis, -is|基底，底|第 3 曲用混合 i 幹女性|
 |bifurcatio, -onis|分岐|第 3 曲用子音幹女性．bifurco + atio|
 |bulbus|球|第 2 曲用男性．bulbus aortae 大動脈球|
 |bursa|嚢||
+|cauda|尾|第 1 曲用女性．形容詞は caudatus．lobus caudatus 尾状葉|
 |cavum|腔||
 |columna|柱||
 |conus|円錐||
@@ -25,6 +28,7 @@
 |cuspis, -idis|先端，尖|第 3 曲用子音幹女性．弁尖を表す cuspis anterior など|
 |diaphragma, -atis|隔膜|第 3 曲用子音幹中性|
 |ductus|管||
+|excavatio, -onis|窩，くぼみ|第 3 曲用子音幹女性．excav + atio．excavatio rectovesicalis 直腸膀胱窩|
 |fasciculus|束||
 |fissura|裂|第 1 曲用女性|
 |flexura|曲|第 1 曲用女性|
@@ -42,6 +46,7 @@
 |linea|線|第 1 曲用女性．linea nuchae superior 上項線|
 |lingula|小舌|第 1 曲用女性．lingu + ula．lingula pulmonis 肺小舌|
 |lobus|葉|第 2 曲用男性|
+|membrana|膜|第 1 曲用女性．membrana obturatoria 閉鎖膜|
 |nodulus|小結節|第 2 曲用男性．nod + ulus．nodus 「結節」の指小辞|
 |ostium|戸口，入口，( 器官の ) 口|第 2 曲用中性．os, oris 「口」に由来する別語．体の開口部には，第 3 曲用の os ではなくこちらを使う|
 |papilla|乳頭，突起|第 1 曲用女性|

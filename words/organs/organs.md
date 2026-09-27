@@ -32,6 +32,15 @@
 |ventriculus|胃|心室にも使う|
 |intestinum|腸|直腸 rectum は intestinum rectum の intestinum を略したもの|
 |colon, -i|結腸|第 2 曲用中性|
+|duodenum|十二指腸|第 2 曲用中性．duodenum digitorum 「十二本の指」が原義|
+|jejunum|空腸|第 2 曲用中性．形容詞は jejunalis|
+|ileum|回腸|第 2 曲用中性．形容詞は ilealis．a. ileocolica 回結腸動脈|
+|cecum|盲腸|第 2 曲用中性|
+|esophagus|食道|第 2 曲用男性．oesophagus は英国式の綴り．形容詞は esophageus|
+|pancreas, -atis|膵臓|第 3 曲用子音幹中性．ギリシア語 πάγκρεας 「すべて肉」に由来．形容詞は pancreaticus|
+|lien, -enis|脾|第 3 曲用子音幹男性．形容詞は lienalis|
+|anus, -i|肛門|第 2 曲用男性．第 4 曲用女性の anus, -us 「老婆」とは別語|
+|vesica|袋，膀胱，胆嚢|第 1 曲用女性．vesica urinaria 膀胱，vesica fellea 胆嚢|
 |pleura|胸膜||
 |pericardium|心膜||
 |peritoneum|腹膜||

@@ -15,6 +15,10 @@
 |ovalis, -e|卵円形の|第 3 曲用 i 幹 C．ov + alis|
 |semilunaris, -e|半月の|第 3 曲用 i 幹 C．semi + lun + aris|
 |falciformis, -e|鎌状の|第 3 曲用 i 幹 C．falc + i + form + is|
+|piriformis, -e|梨状の|第 3 曲用 i 幹 C．pir + i + form + is．pirum 「梨」．m. piriformis 梨状筋|
+|caudatus, -a, -um|尾のある|caud + atus．lobus caudatus 尾状葉|
+|spiralis, -e|らせん状の|第 3 曲用 i 幹 C．spir + alis．plica spiralis ラセンヒダ|
+|nudus, -a, -um|裸の|area nuda 無漿膜野．英語の nude|
 |triangularis, -e|三角形の|第 3 曲用 i 幹 C．tri + angul + aris|
 |fibrosus, -a, -um|線維性の|fibr + osus|
 |venosus, -a, -um|静脈の|ven + osus|

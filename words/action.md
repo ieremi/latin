@@ -41,3 +41,5 @@
 |quadro, quadrare, quadravi, quadratum|四角にする|第 1 活用．quadratus 「方形の」は完了受動分詞|
 |retineo, retinere|保つ，引き止める|retinaculum 支帯|
 |vincio, vincire, vinxi, vinctum|縛る|第 4 活用．vinculum ひも|
+|obturo, obturare, obturavi, obturatum|ふさぐ|第 1 活用．membrana obturatoria 閉鎖膜．英語の obturator|
+|cedo, cedere|ゆく，進む|第 3 活用．recedo, procedo, accedo の元になる動詞|

@@ -59,5 +59,13 @@
 |thorax|thoracis|thoracicus|
 |cervix|cervicis|cervicalis|
 |brachium|brachii|brachialis|
+|hepar|hepatis|hepaticus|
 
-たとえば cervix では，a. cervicalis profunda は形容詞を使い，m. longus cervicis は属格を使います．
+たとえば cervix では，a. cervicalis profunda は形容詞を使い，m. longus cervicis は属格を使います．hepar では，ductus hepaticus communis 「総肝管」は形容詞を使い，porta hepatis 「肝門」は属格を使います．
+
+# 綴りの違い
+
+同じ語でも，綴りが違うことがあります．ギリシア語の二重母音に由来する oe, ae は，英語 ( 特に米国式 ) では e に簡略化されます．
+
+- coeliacus 「腹の」．TA98 では truncus coeliacus と綴りますが，英語の celiac のように celiacus と書く本もあります
+- oesophagus 「食道」．esophagus は米国式の綴りです．impressio oesophagea / impressio esophagea

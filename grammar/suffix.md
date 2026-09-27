@@ -74,6 +74,8 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 心室 ventriculus．ventr + i + culus．ventr は venter, -tris 「胃」の語幹
 - 小結節 tuberculum．tuber + culum
 - 踝 malleolus．malle + olus．語幹が母音で終わる語では，olus の形になります
+- 虫垂 appendicula．appendic + ula．appendix, -icis 「垂」の指小辞形
+- 膨大部 ampulla．amphora 「壺」に指小辞が付いた形．「小さな壺」
 
 語幹が子音で終わる第 3 曲用の名詞に付くときは，発音のために間に結合母音 i が入り，i + cula/culus の形になります（つなぎの母音については [compound.md](compound.md) を参照）．
 
@@ -129,8 +131,8 @@ pericardiacus, -a, -um
 
 語幹に l を含むときは，l の重なりを避けて alis が aris に変わります．aris も同じく第 3 曲用 i 幹 C で，中性は -are です．
 
-- alis: sternalis 「胸骨の」( stern + alis )，pulmonalis 「肺の」，parietalis 「壁の」
-- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む
+- alis: sternalis 「胸骨の」( stern + alis )，pulmonalis 「肺の」，parietalis 「壁の」，jejunalis 「空腸の」( jejun + alis )，ilealis 「回腸の」( ile + alis )，rectalis 「直腸の」( rect + alis )
+- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む．appendicularis 「虫垂の」( appendicul + aris )．語幹 appendicul に l を含む
 
 ## aneus
 
@@ -138,6 +140,16 @@ pericardiacus, -a, -um
 
 - cutaneus 「皮膚の」( cut + aneus )．cut は cutis, -is 「皮膚」の語幹．英語の cutaneous
 - musculocutaneus 「筋と皮膚の」( muscul + o + cut + aneus )．筋皮神経 n. musculocutaneus
+
+## atus
+
+「...をもつ，...の形の」という形容詞を作ります．名詞の語幹に付きます．第 1・2 曲用 -atus, -ata, -atum になります．第 1 活用の動詞の完了受動分詞の語尾と同形です．
+
+- supraspinatus 「棘の上の」( supra + spin + atus )
+- caudatus 「尾のある」( caud + atus )．caudatus lobus 尾状葉
+- cuneatus 「楔状の」( cune + atus )
+- denticulatus 「歯状の」( denticul + atus )
+- quadratus 「方形の」．quadro 「四角にする」の完了受動分詞
 
 ## aticus
 
@@ -176,6 +188,11 @@ diaphragmat + icus と分けることもできます．
 - gastricus 「胃の」
 - epiploicus 「大網の」( epiplo + icus )
 - ovaricus 「卵巣の」( ovar + icus )
+- hepaticus 「肝臓の」( hepat + icus )
+- colicus 「結腸の」( col + icus )
+- mesentericus 「腸間膜の」( mes + enter + icus )
+- pancreaticus 「膵臓の」( pancreat + icus )
+- cysticus 「嚢の，胆嚢の」( cyst + icus )
 
 ## inus
 
@@ -200,6 +217,7 @@ diaphragmat + icus と分けることもできます．
 
 - suspensorius 「つるす，支える」．suspendo の目的分詞幹 suspens + orius
 - accessorius 「副の」．accedo の目的分詞幹 access + orius
+- obturatorius 「閉鎖の」．obturo 「ふさぐ」の目的分詞幹 obturat + orius．membrana obturatoria 閉鎖膜
 
 ## osus
 

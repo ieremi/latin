@@ -17,6 +17,7 @@
 ラテン語の伝統的な複合語では，つなぎの母音に i を使います．
 
 - falc + i + form + is 「鎌状の」
+- pir + i + form + is 「梨状の」．pirum 「梨」．m. piriformis 梨状筋
 
 # つなぎが入らないとき
 
