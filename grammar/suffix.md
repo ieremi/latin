@@ -211,6 +211,8 @@ diaphragmat + icus と分けることもできます．
 
 - uterinus 「子宮の」( uter + inus )
 - equinus 「馬の」．馬尾 cauda equina
+- masculinus 「男性の」( masculus + inus )．masculus は mas, maris 「男」の指小辞形
+- femininus 「女性の」( femina + inus )
 
 ## oideus
 
@@ -237,3 +239,5 @@ diaphragmat + icus と分けることもできます．
 - fibrosus 「線維性の」( fibr + osus )
 - venosus 「静脈の」( ven + osus )
 - adiposus 「脂肪性の」( adip + osus )．adip は adeps, adipis 「脂肪」の語幹
+- spongiosus 「海綿状の」( spongia + osus )．spongia はギリシア語 σπόγγος 「海綿」に由来
+- cavernosus 「海綿状の，空洞の多い」( caverna + osus )
