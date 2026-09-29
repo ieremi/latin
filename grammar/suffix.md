@@ -152,6 +152,8 @@ pericardiacus, -a, -um
 - denticulatus 「歯状の」( denticul + atus )
 - quadratus 「方形の」．quadro 「四角にする」の完了受動分詞
 - aggregatus 「集合した」．aggrego ( ad + grex 「群れ」) の完了受動分詞
+- stellatus 「星形の」( stell + atus )．stella 「星」の派生語
+- arcuatus 「弓状の」( arcu + atus )．arcus 「弓」の派生語
 
 ## aticus
 
@@ -178,6 +180,7 @@ diaphragmat + icus と分けることもできます．
 - coccygeus 「尾骨の」( coccyg + eus )
 - interosseus 「骨間の」( inter + oss + eus )
 - metacarpeus 「中手の」( metacarp + eus )
+- tendineus 「腱の」( tendin + eus )．tendin は tendo, tendinis の語幹
 
 ## ius
 
@@ -193,6 +196,9 @@ diaphragmat + icus と分けることもできます．
 - gastricus 「胃の」
 - epiploicus 「大網の」( epiplo + icus )
 - ovaricus 「卵巣の」( ovar + icus )
+- sympathicus 「交感神経の」．後期ラテン語 sympathia ( ギリシア語 συμπάθεια 「共感」) + icus
+- splanchnicus 「内臓の」．ギリシア語 σπλάγχνον 「内臓」に由来
+- pelvicus 「骨盤の」( pelv + icus )．pelvinus, -a, -um という形も見られるが，TA98 は pelvicus を使う
 - hepaticus 「肝臓の」( hepat + icus )
 - colicus 「結腸の」( col + icus )
 - mesentericus 「腸間膜の」( mes + enter + icus )

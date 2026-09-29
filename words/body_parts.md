@@ -37,6 +37,7 @@
 |acromion|肩峰|第 2 曲用中性|
 |humerus|上腕骨，肩|第 2 曲用男性．属格 humeri をそのまま使う ( a. circumflexa humeri anterior 前上腕回旋動脈 )|
 |brachium|腕|第 2 曲用中性．属格 brachii と形容詞 brachialis の両方を使う|
+|psoas|腰筋|ギリシア語 ψόα の借用で，ラテン語では曲用しない．m. psoas major/minor 大／小腰筋|
 |antebrachium|前腕|第 2 曲用中性．ante + brachium．n. cutaneus antebrachii medialis 内側前腕皮神経|
 |radius|橈骨，光線|第 2 曲用男性．形容詞は radialis で，n. radialis 橈骨神経|
 |ulna|尺骨|第 1 曲用女性．形容詞は ulnaris で，n. ulnaris 尺骨神経|

@@ -19,6 +19,9 @@
 |caudatus, -a, -um|尾のある|caud + atus．lobus caudatus 尾状葉|
 |spiralis, -e|らせん状の|第 3 曲用 i 幹 C．spir + alis．plica spiralis ラセンヒダ|
 |nudus, -a, -um|裸の|area nuda 無漿膜野．英語の nude|
+|arcuatus, -a, -um|弓状の|arcu + atus．lig. arcuatum mediale/laterale 内側／外側弓状靭帯|
+|stellatus, -a, -um|星形の|stell + atus．ganglion stellatum 星状神経節|
+|azygos, azygon|対のない|ギリシア語由来．男性・女性は azygos，中性は azygon．v. azygos 奇静脈|
 |triangularis, -e|三角形の|第 3 曲用 i 幹 C．tri + angul + aris|
 |fibrosus, -a, -um|線維性の|fibr + osus|
 |venosus, -a, -um|静脈の|ven + osus|

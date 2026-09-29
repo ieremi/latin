@@ -20,12 +20,15 @@
 |calix, -icis|杯|第 3 曲用子音幹男性．calix renalis 腎杯|
 |capsula|小箱，被膜|第 1 曲用女性．capsa 「箱」の指小辞形|
 |cauda|尾|第 1 曲用女性．形容詞は caudatus．lobus caudatus 尾状葉|
+|centrum|中心|第 2 曲用中性．ギリシア語 κέντρον 「とがった点」に由来．centrum tendineum 腱中心|
+|cisterna|水槽，貯水池|第 1 曲用女性．cisterna chyli 乳び槽|
 |cortex, -icis|樹皮，皮質|第 3 曲用子音幹男性．cortex renis 腎皮質|
 |cavum|腔||
 |columna|柱||
 |conus|円錐||
 |corpus, -oris|体|第 3 曲用子音幹中性|
 |crista|稜||
+|crus, cruris|脚，下腿|第 3 曲用子音幹中性．crus sinistrum/dextrum ( 横隔膜の ) 左脚／右脚|
 |cupula|頂||
 |curvatura|湾曲||
 |cuspis, -idis|先端，尖|第 3 曲用子音幹女性．弁尖を表す cuspis anterior など|

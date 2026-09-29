@@ -20,3 +20,4 @@
 |minimus|最も小さい|parvus の最上級|
 |latissimus|最も広い|latus の最上級．m. latissimus dorsi 広背筋|
 |longissimus|最も長い|longus の最上級．m. longissimus 最長筋|
+|intimus|いちばん内の|interior の最上級（原級 interus は単独では使わない）．mm. intercostales intimi 最内肋間筋|

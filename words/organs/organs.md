@@ -45,6 +45,8 @@
 |ureter, ureteris|尿管|第 3 曲用子音幹男性．ギリシア語 οὐρητήρ に由来|
 |glandula|腺|第 1 曲用女性|
 |lympha|リンパ，水|第 1 曲用女性．ギリシア語 νύμφη 「乙女，泉の精」に由来．形容詞は lymphaticus|
+|chylus|乳び，植物の汁|第 2 曲用男性．ギリシア語 χυλός に由来|
+|testiculus|精巣|第 2 曲用男性．testis 「精巣，証人」の指小辞形|
 |pleura|胸膜||
 |pericardium|心膜||
 |peritoneum|腹膜||
