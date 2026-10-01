@@ -78,6 +78,9 @@
 |labium, -ii|唇|第 2 曲用中性|
 |clitoris, clitoridis|陰核|第 3 曲用混合 i 幹女性．ギリシア語 κλειτορίς に由来|
 |testis, -is|精巣，証人|第 3 曲用混合 i 幹男性|
+|epididymis, -idis|精巣上体|第 3 曲用女性．ギリシア語 ἐπιδιδυμίς (epididymís) に由来．epi + didymos「双子，精巣」|
+|prostata|前立腺|第 1 曲用女性．ギリシア語 προστάτης (prostátēs)「前に立つ者」に由来|
 |urethra|尿道|第 1 曲用女性．ギリシア語 οὐρήθρα に由来|
 |perineum|会陰|第 2 曲用中性．ギリシア語 περίναιον に由来|
+|uterus|子宮|第 2 曲用男性．「腹」の意味でも使われる|
 |vestibulum|玄関，前庭|第 2 曲用中性．vestibulum vaginae 腟前庭|

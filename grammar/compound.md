@@ -18,6 +18,7 @@
 
 - falc + i + form + is 「鎌状の」
 - pir + i + form + is 「梨状の」．pirum 「梨」．m. piriformis 梨状筋
+- semin + i + fer 「精子を運ぶ」．semen の語幹 semin + fero 「運ぶ」の語幹 fer．tubuli seminiferi 曲精細管
 
 # つなぎが入らないとき
 

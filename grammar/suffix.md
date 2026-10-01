@@ -76,12 +76,14 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 - 踝 malleolus．malle + olus．語幹が母音で終わる語では，olus の形になります
 - 虫垂 appendicula．appendic + ula．appendix, -icis 「垂」の指小辞形
 - 膨大部 ampulla．amphora 「壺」に指小辞が付いた形．「小さな壺」
+- 精嚢 vesicula．vesic + ula．vesica 「袋」の指小辞形
 
 語幹が子音で終わる第 3 曲用の名詞に付くときは，発音のために間に結合母音 i が入り，i + cula/culus の形になります（つなぎの母音については [compound.md](compound.md) を参照）．
 
 - 鎖骨 clavicula．第 3 曲用混合 i 幹女性の名詞 clavis, -is 「鍵」+ i + cula
 - 耳介 auricula．第 3 曲用混合 i 幹女性の名詞 auris, -is 「耳」+ i + cula
 - 小索 funiculus．第 3 曲用混合 i 幹男性の名詞 funis, -is 「綱，索」+ i + culus
+- 精丘 colliculus．第 3 曲用男性の名詞 collis, -is 「丘」+ i + culus
 
 ## tas
 
@@ -132,8 +134,8 @@ pericardiacus, -a, -um
 
 語幹に l を含むときは，l の重なりを避けて alis が aris に変わります．aris も同じく第 3 曲用 i 幹 C で，中性は -are です．
 
-- alis: sternalis 「胸骨の」( stern + alis )，pulmonalis 「肺の」，parietalis 「壁の」，jejunalis 「空腸の」( jejun + alis )，ilealis 「回腸の」( ile + alis )，rectalis 「直腸の」( rect + alis )
-- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む．appendicularis 「虫垂の」( appendicul + aris )．muscularis 「筋の」( muscul + aris )．interlobaris 「葉の間の」( inter + lob + aris )，interlobularis 「小葉の間の」( inter + lobul + aris )．いずれも語幹に l を含む
+- alis: sternalis 「胸骨の」( stern + alis )，pulmonalis 「肺の」，parietalis 「壁の」，jejunalis 「空腸の」( jejun + alis )，ilealis 「回腸の」( ile + alis )，rectalis 「直腸の」( rect + alis )，analis 「肛門の」( an + alis )，seminalis 「精液の」( semin + alis )，urethralis 「尿道の」( urethr + alis )，hemorrhoidalis 「痔の」( hemorrhoid + alis )，supravaginalis 「腟の上の」( supra + vagin + alis )，bulbourethralis 「尿道球の」( bulbo + urethr + alis )
+- aris: triangularis 「三角形の」( tri + angul + aris )．語幹 angul に l を含む．appendicularis 「虫垂の」( appendicul + aris )．muscularis 「筋の」( muscul + aris )．interlobaris 「葉の間の」( inter + lob + aris )，interlobularis 「小葉の間の」( inter + lobul + aris )．vestibularis 「前庭の」( vestibul + aris )．いずれも語幹に l を含む
 
 ## aneus
 
@@ -181,6 +183,7 @@ diaphragmat + icus と分けることもできます．
 - interosseus 「骨間の」( inter + oss + eus )
 - metacarpeus 「中手の」( metacarp + eus )
 - tendineus 「腱の」( tendin + eus )．tendin は tendo, tendinis の語幹
+- albugineus 「白い，白膜の」．albugo, -inis 「白斑」( albus 「白い」の派生語 ) の語幹 albugin + eus
 
 ## ius
 
@@ -199,6 +202,8 @@ diaphragmat + icus と分けることもできます．
 - sympathicus 「交感神経の」．後期ラテン語 sympathia ( ギリシア語 συμπάθεια 「共感」) + icus
 - splanchnicus 「内臓の」．ギリシア語 σπλάγχνον 「内臓」に由来
 - pelvicus 「骨盤の」( pelv + icus )．pelvinus, -a, -um という形も見られるが，TA98 は pelvicus を使う
+- spermaticus 「精子の」．ギリシア語 σπέρμα (spérma) 「種」の語幹 spermat + icus
+- prostaticus 「前立腺の」( prostata + icus )
 - hepaticus 「肝臓の」( hepat + icus )
 - colicus 「結腸の」( col + icus )
 - mesentericus 「腸間膜の」( mes + enter + icus )
@@ -231,6 +236,7 @@ diaphragmat + icus と分けることもできます．
 - suspensorius 「つるす，支える」．suspendo の目的分詞幹 suspens + orius
 - accessorius 「副の」．accedo の目的分詞幹 access + orius
 - obturatorius 「閉鎖の」．obturo 「ふさぐ」の目的分詞幹 obturat + orius．membrana obturatoria 閉鎖膜
+- ejaculatorius 「射精の」．ejaculor ( e + jaculor 「投げる」) の目的分詞幹 ejaculat + orius
 
 ## osus
 

@@ -22,6 +22,7 @@
 |cauda|尾|第 1 曲用女性．形容詞は caudatus．lobus caudatus 尾状葉|
 |centrum|中心|第 2 曲用中性．ギリシア語 κέντρον 「とがった点」に由来．centrum tendineum 腱中心|
 |cisterna|水槽，貯水池|第 1 曲用女性．cisterna chyli 乳び槽|
+|colliculus|小さな丘|第 2 曲用男性．collis, -is 「丘」+ i + culus の指小辞形．colliculus seminalis 精丘|
 |cortex, -icis|樹皮，皮質|第 3 曲用子音幹男性．cortex renis 腎皮質|
 |cavum|腔||
 |columna|柱||
@@ -50,10 +51,12 @@
 |hilum|門|第 2 曲用中性|
 |impressio, -onis|圧痕|第 3 曲用子音幹女性．impress + io|
 |incisura|切痕||
+|isthmus|峡部|第 2 曲用男性．ギリシア語 ἰσθμός (isthmós)「首，狭い道」に由来．isthmus tubae uterinae 卵管峡部|
 |lamina|板||
 |linea|線|第 1 曲用女性．linea nuchae superior 上項線|
 |lingula|小舌|第 1 曲用女性．lingu + ula．lingula pulmonis 肺小舌|
 |lobus|葉|第 2 曲用男性|
+|mediastinum|縦隔|第 2 曲用中性．mediastinum testis 精巣縦隔|
 |membrana|膜|第 1 曲用女性．membrana obturatoria 閉鎖膜|
 |medulla|髄，髄質|第 1 曲用女性．medulla renis 腎髄質，medulla spinalis 脊髄|
 |nodulus|小結節|第 2 曲用男性．nod + ulus．nodus 「結節」の指小辞|
@@ -61,6 +64,7 @@
 |papilla|乳頭，突起|第 1 曲用女性|
 |plica|ヒダ|第 1 曲用女性|
 |porta|門|門脈 v. portae に使う|
+|portio, -onis|部分|第 3 曲用女性．portio vaginalis 腟部|
 |processus|突起||
 |protuberantia|隆起||
 |pyramis, -idis|錐体||
@@ -82,4 +86,7 @@
 |tunica|外套，被膜|第 1 曲用女性．tunica muscularis 筋質膜|
 |vagina|鞘|第 1 曲用女性．vagina m. recti abdominis 腹直筋鞘|
 |valva|弁||
+|vas, vasis|管，脈管|第 3 曲用中性．vas deferens 精管|
+|vesicula|小胞，小さな袋|第 1 曲用女性．vesica の指小辞形．vesicula seminalis 精嚢|
 |vinculum|ひも，綱|第 2 曲用中性．vinc + ulum．vincula longa/brevia 長い/短いヒモ|
+|zona|帯|第 1 曲用女性．ギリシア語 ζώνη (zṓnē)「帯」に由来|
