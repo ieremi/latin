@@ -29,6 +29,7 @@
 |lien, -enis|脾|男性|
 |liquor, -oris|液，髄液|男性|
 |mater, -tris|母|女性．TA98 の複数属格は matrum．音節数の規則では混合 i 幹になるが，子音幹である|
+|mors, mortis|死|女性．corona mortis 死冠|
 |paries, -etis|壁|男性|
 |pecten, -inis|櫛|男性|
 |pollex, -icis|母指|男性．TA98 で確認|

@@ -23,6 +23,7 @@
 |centrum|中心|第 2 曲用中性．ギリシア語 κέντρον 「とがった点」に由来．centrum tendineum 腱中心|
 |cisterna|水槽，貯水池|第 1 曲用女性．cisterna chyli 乳び槽|
 |colliculus|小さな丘|第 2 曲用男性．collis, -is 「丘」+ i + culus の指小辞形．colliculus seminalis 精丘|
+|corona|冠|第 1 曲用女性．ギリシア語 κορώνη (korṓnē) に由来．corona mortis 死冠|
 |cortex, -icis|樹皮，皮質|第 3 曲用子音幹男性．cortex renis 腎皮質|
 |cavum|腔||
 |columna|柱||

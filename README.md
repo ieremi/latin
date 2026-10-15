@@ -27,6 +27,7 @@
 - [16](practice/16.md)
 - [17](practice/17.md)
 - [18](practice/18.md)
+- [19](practice/19.md)
 
 ## 文法解説
 

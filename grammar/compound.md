@@ -11,6 +11,7 @@
 - hepat + o + duoden + alis
 - mes + o + colon
 - ile + o + cec + alis
+- ili + o + lumbalis 「腸骨と腰の」．a. iliolumbalis 腸腰動脈
 
 # i
 

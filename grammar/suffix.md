@@ -209,6 +209,7 @@ diaphragmat + icus と分けることもできます．
 - mesentericus 「腸間膜の」( mes + enter + icus )
 - pancreaticus 「膵臓の」( pancreat + icus )
 - cysticus 「嚢の，胆嚢の」( cyst + icus )
+- ischiadicus 「坐骨の」．ギリシア語 ἰσχιαδικός (ischiadikós)（ ἰσχίον「坐骨」の形容詞形）に由来
 
 ## inus
 
